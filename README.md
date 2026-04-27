@@ -9,13 +9,13 @@ Ultra Hardcore is a datapack for Minecraft 1.20.4 that aims to increase the diff
 
 Features:
 - expanded progression system,
-- expanded [survival systems](survival_systems.md) ([cold](cold.md), [health scaling](health_scaling.md), [hydration](hydration.md), [nutrition](nutrition.md), [sanity](sanity.md) & [wounds](wounds.md)),
-- new [mobs](mobs.md) & mob difficulty scaling, 
+- expanded [survival systems](./survival_systems.md) ([cold](./survival_systems/cold.md), [health scaling](./survival_systems/health_scaling.md), [hydration](./survival_systems/hydration.md), [nutrition](./survival_systems/nutrition.md), [sanity](./survival_systems/sanity.md) & [wounds](./survival_systems/wounds.md)),
+- new [mobs](./mobs.md) & mob difficulty scaling, 
 - stronger Wither & Ender Dragon,
-- new [armor & tools](material_tiers/list.md), 
-- new [foods](items/foods), 
-- 2 new [utility blocks](miscellaneous/forges),
-- some [structures](structures.md),
+- new [armor & tools](./material_tiers/list.md), 
+- new [foods](./items/foods.md), 
+- 2 new [utility blocks](./miscellaneous/forges.md),
+- some [structures](./structures.md),
 - changes to farming
 - and more!
 

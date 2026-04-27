@@ -1,7 +1,7 @@
 
 | [Main Page](README.md) | [Items](items.md)   | [Mobs](mobs.md)     | [Survival Systems](survival_systems.md) | [Vanilla Changes](vanilla_changes.md) |
-| -------------------------- | ------------------- | ------------------- | --------------------------------------- | ------------------------------------- |
-| **Beginner Guide**         | [Blocks](blocks.md) | [Bosses](bosses.md) | [Structures](structures.md)             | [Configuration](configuration.md)     |
+| ---------------------- | ------------------- | ------------------- | --------------------------------------- | ------------------------------------- |
+| **Beginner Guide**     | [Blocks](blocks.md) | [Bosses](bosses.md) | [Structures](structures.md)             | [Configuration](configuration.md)     |
 
 # Beginner guide 
 
@@ -140,7 +140,7 @@ There are foods that descrease both protein and carbs and there are foods that i
 
 When you have access to them, you can eat "balanced" food items that have a balancing effect on your protein and carb nutrition scores.
 
-The best foods to eat (in terms of nutrition) are the following [balanced foods](nutrition.md):
+The best foods to eat (in terms of nutrition) are the following [balanced foods](./survival_systems/nutrition.md):
 - Apple Pie
 - Pumpkin Pie
 - Sweet Berry Pie

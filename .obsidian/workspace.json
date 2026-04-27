@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items.md",
-                "mode": "source",
-                "source": false
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "items"
+              "title": "README"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65dacd56c476f848",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "items.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for items"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "items.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from items"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "items.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of items"
+              "title": "Outline of README"
             }
           }
         ]
@@ -186,12 +185,14 @@
   },
   "active": "bb79013a47f82dbe",
   "lastOpenFiles": [
+    "items/foods.md",
+    "README.md",
+    "survival_systems/cold.md",
+    "beginner_guide.md",
+    "survival_systems/nutrition.md",
     "items/blaze_gold_ingot.md",
     "items.md",
-    "items/foods.md",
     "items/canteen.md",
-    "items/glistening_honey.md",
-    "beginner_guide.md",
-    "README.md"
+    "items/glistening_honey.md"
   ]
 }
