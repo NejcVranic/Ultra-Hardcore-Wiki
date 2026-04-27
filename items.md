@@ -6,7 +6,7 @@
 # Items 
 Below is a list of all items added or changed by Ultra Hardcore
 
-## [Foods](items/foods) 
+## [Foods](./items/foods.md) 
 - Apple Pie
 - Bat Wing
 - Cactus Soup
