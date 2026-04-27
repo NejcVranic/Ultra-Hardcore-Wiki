@@ -1,5 +1,5 @@
 # Iron Chisel
-Iron Chisel is a tool [item](items.md) that can be used in multiple ways and allows the player to obtain other materials. [Flint Chisel](flint_chisel.md) is a lower tier version of the tool.
+Iron Chisel is a tool [item](../items.md) that can be used in multiple ways and allows the player to obtain other materials. [Flint Chisel](../flint_chisel.md) is a lower tier version of the tool.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Iron Chisel is a tool [item](items.md) that can be used in multiple ways and all
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/iron_chisel.png" alt="iron_chisel" width="128" style="image-rendering: pixelated;">  
+<img src="../images/iron_chisel.png" alt="iron_chisel" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

@@ -1,9 +1,9 @@
 # Forges
 Ultra Hardcore adds 2 new utility blocks:
 
-| [Deepslate Forge](blocks/deepslate_forge)                                                                                                                       | [Nether Forge](blocks/nether_forge)                                                                                                                       |
+| [Deepslate Forge](../blocks/deepslate_forge.md)                                                                                                                       | [Nether Forge](../blocks/nether_forge.md)                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <div style="text-align: center;">  <br><img src="images/deepslate_forge.png" alt="deepslate_forge" width="128" style="image-rendering: pixelated;">  <br></div> | <div style="text-align: center;">  <br><img src="images/nether_forge.png" alt="nether_forge" width="128" style="image-rendering: pixelated;">  <br></div> |
+| <div style="text-align: center;">  <br><img src="../images/deepslate_forge.png" alt="deepslate_forge" width="128" style="image-rendering: pixelated;">  <br></div> | <div style="text-align: center;">  <br><img src="../images/nether_forge.png" alt="nether_forge" width="128" style="image-rendering: pixelated;">  <br></div> |
 
 A forge has a 3x3 storage as well as an invisible item frame at the top of the block, referred to as the "surface slot". When there is an item in the surface slot, right clicking it will drop the item. If a block is placed above the forge will also cause the item in the surface slot to drop.
 
@@ -37,9 +37,9 @@ Below is a list of items that can be forged in the Deepslate Forge and Nether Fo
 - Steel Hoe
 
 Below is a list of items that can only be forged in the Nether Forge:
-- [Blaze Gold Ingot](items/blaze_gold_ingot) 
-- [Diamond Ingot](items/diamond_ingot) 
-- [Netherite Ingot](items/netherite_ingot) 
+- [Blaze Gold Ingot](../items/blaze_gold_ingot.md) 
+- [Diamond Ingot](../items/diamond_ingot.md) 
+- [Netherite Ingot](../items/netherite_ingot.md) 
 - Blaze Gold Boots
 - Blaze Gold Chestplate
 - Blaze Gold Leggings 

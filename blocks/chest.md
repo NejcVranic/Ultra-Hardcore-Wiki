@@ -1,5 +1,5 @@
 # Chest
-Chest is a Vanilla storage [block](blocks.md). It's crafting recipe has been changed to include a tripwire hook.
+Chest is a Vanilla storage [block](../blocks.md). It's crafting recipe has been changed to include a tripwire hook.
 
 
 <table style="border-collapse: collapse; text-align: center; border: 2px solid #3a3a3a;">  

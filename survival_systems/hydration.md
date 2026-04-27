@@ -1,5 +1,5 @@
 # Hydration
-Hydration is a [Survival System](survival_systems.md) which adds a hydration bar. It's designed to serve as an obstacle in the early game and doesn't need to be maintained, after the player has progresses far enough to obtain a [Hydrating Helmet](items/hydrating_helmet.md).
+Hydration is a [Survival System](../survival_systems.md) which adds a hydration bar. It's designed to serve as an obstacle in the early game and doesn't need to be maintained, after the player has progresses far enough to obtain a [Hydrating Helmet](../items/hydrating_helmet.md).
 
 The color of the bar indicates the severity of dehydration. Being dehydrated causes adverse effects:
 - <span style="background-color:rgb(0, 100, 250);color:rgb(0,0,0)">Blue</span> = No adverse effects
@@ -28,7 +28,7 @@ Drinking from regular water bottles recovers 1200 hydration, but has a high chan
 
 Drinking from a filtered water bottle recovers 2000 hydration (and has no chance of applying negative effects).
 
-[Foods](items/foods) that increase hydration:
+[Foods](../items/foods.md) that increase hydration:
 - Apple
 - Beetroot soup
 - Cactus juice
@@ -53,6 +53,6 @@ When a player drinks an unfiltered bottle of water or bucket of milk which has n
 - 33% chance for Hunger 10 for 9 seconds
 - 33% chance for Poison 1 for 5 seconds
 
-Bottles of water and buckets of milk can be boiled on a [campfire](blocks/campfire) to turn into [Filtered Water Bottle](items/filtered_water_bottle) and [Pasturized Bucked of Milk](items/pasturized_bucket_of_milk), which are safe to drink and will not apply negative effects.
+Bottles of water and buckets of milk can be boiled on a [campfire](../blocks/campfire.md) to turn into [Filtered Water Bottle](../items/filtered_water_bottle.md) and [Pasturized Bucked of Milk](../items/pasturized_bucket_of_milk.md), which are safe to drink and will not apply negative effects.
 
 

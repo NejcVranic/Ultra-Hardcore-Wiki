@@ -1,5 +1,5 @@
 # Campfire
-Campfire is a Vanilla [block](blocks.md) that can be used to cook items using campfire recipes. The crafting recipe has been changed.
+Campfire is a Vanilla [block](../blocks.md) that can be used to cook items using campfire recipes. The crafting recipe has been changed.
 
 ### Obtaining
 
@@ -33,4 +33,4 @@ Campfire is a Vanilla [block](blocks.md) that can be used to cook items using ca
 
 - Clay ball -> Brick
 - Wooden log -> Charcoal
-- Stick -> -nothing- (used only to fuel [Chiseled Campfire](blocks/chiseled_campfire.md))
+- Stick -> -nothing- (used only to fuel [Chiseled Campfire](../blocks/chiseled_campfire.md))

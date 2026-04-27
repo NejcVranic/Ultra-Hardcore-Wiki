@@ -1,5 +1,5 @@
 # Nutrition Monitor
-Nutrition Monitor is a tool [item](items.md) that can be used to inform the player of their [nutrition](nutrition.md). 
+Nutrition Monitor is a tool [item](../items.md) that can be used to inform the player of their [nutrition](../nutrition.md). 
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Nutrition Monitor is a tool [item](items.md) that can be used to inform the play
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/nutrition_monitor.png" alt="nutrition_monitor" width="128" style="image-rendering: pixelated;">  
+<img src="../images/nutrition_monitor.png" alt="nutrition_monitor" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

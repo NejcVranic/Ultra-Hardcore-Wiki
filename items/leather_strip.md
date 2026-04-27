@@ -1,5 +1,5 @@
 # Leather Strip
-Leather Strip is a material [item](items.md) that can be used in crafting recipes.
+Leather Strip is a material [item](../items.md) that can be used in crafting recipes.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Leather Strip is a material [item](items.md) that can be used in crafting recipe
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/leather_strip.png" alt="leather_strip" width="128" style="image-rendering: pixelated;">  
+<img src="../images/leather_strip.png" alt="leather_strip" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

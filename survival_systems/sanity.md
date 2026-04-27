@@ -1,5 +1,5 @@
 # Sanity
-Sanity is a [Survival System](survival_systems.md) which adds sanity stages.
+Sanity is a [Survival System](../survival_systems.md) which adds sanity stages.
 
 The players sanity stage is announced to the player through the chat box when their sanity level changes. The sanity stage of a player is determined by a hidden score (between 0 and 120).
 

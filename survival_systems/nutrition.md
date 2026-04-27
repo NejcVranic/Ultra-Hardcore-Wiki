@@ -1,11 +1,11 @@
 # Nutrition
-Nutrition is a [Survival System](survival_systems.md) which tracks the quality of a player's diet and its impact on their health.
+Nutrition is a [Survival System](../survival_systems.md) which tracks the quality of a player's diet and its impact on their health.
 
 This system encourages the player to eat a varied diet of foods and can cause negative or positive effects.
 
-A player’s diet quality is determined by three hidden nutrition scores: **Protein**, **Carbs**, and **Micronutrients**, each ranging from 0 to 200. Upon first spawning (and on respawn) all nutrition scores are set to 100. The scores are changed by eating any [food item](items/foods).
+A player’s diet quality is determined by three hidden nutrition scores: **Protein**, **Carbs**, and **Micronutrients**, each ranging from 0 to 200. Upon first spawning (and on respawn) all nutrition scores are set to 100. The scores are changed by eating any [food item](../items/foods.md).
 
-Players can view their current nutrition scores by using a [nutrition monitor](items/nutrition_monitor).
+Players can view their current nutrition scores by using a [nutrition monitor](../items/nutrition_monitor.md).
 
 Consuming food alters all three diet scores, with a few exceptions. 
 A food item will always change Protein and Carbs scores the same way when it is eaten. The scores are increased (or decreased) by the value of the food's protein and carb values (some foods are "balanced" and are an exception to this rule).

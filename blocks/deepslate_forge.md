@@ -1,5 +1,5 @@
 # Deepslate Forge
-Deepslate Forge is a utility block [block](blocks.md) that allows the player to repair and [forge](miscellaneous/forges) new items. The [Nether Forge](blocks/nether_forge) has the same utilities, but offers more forging recipes.
+Deepslate Forge is a utility block [block](../blocks.md) that allows the player to repair and [forge](../miscellaneous/forges.md) new items. The [Nether Forge](../blocks/nether_forge.md) has the same utilities, but offers more forging recipes.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -69,7 +69,7 @@ Armor and Tools can be repaired using the forge by
 
 ### Forging
 Below is a list of items that can be forged in the Deepslate Forge:
-- [Steel Ingot](items/steel_ingot) 
+- [Steel Ingot](../items/steel_ingot.md) 
 - Steel Boots
 - Steel Chestplate
 - Steel Leggings 

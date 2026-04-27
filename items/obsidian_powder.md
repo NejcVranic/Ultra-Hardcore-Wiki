@@ -1,5 +1,5 @@
 # Obsidian Powder
-Obsidian Powder is a material [item](items.md) that can be used to make a [Diamond Ingot](items/diamond_ingot).
+Obsidian Powder is a material [item](../items.md) that can be used to make a [Diamond Ingot](../items/diamond_ingot.md).
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Obsidian Powder is a material [item](items.md) that can be used to make a [Diamo
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/obsidian_powder.png" alt="obsidian_powder" width="128" style="image-rendering: pixelated;">  
+<img src="../images/obsidian_powder.png" alt="obsidian_powder" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

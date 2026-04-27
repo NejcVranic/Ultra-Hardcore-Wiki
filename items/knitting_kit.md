@@ -1,5 +1,5 @@
 # Knitting Kit
-Knitting Kit is a tool [item](items.md) that can be used to make [Knitten Fabric](items/knitten_fabric). 
+Knitting Kit is a tool [item](../items.md) that can be used to make [Knitten Fabric](../items/knitten_fabric.md). 
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Knitting Kit is a tool [item](items.md) that can be used to make [Knitten Fabric
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/knitting_kit.png" alt="knitting_kit" width="128" style="image-rendering: pixelated;">  
+<img src="../images/knitting_kit.png" alt="knitting_kit" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

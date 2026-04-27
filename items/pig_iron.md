@@ -1,5 +1,5 @@
 # Pig Iron
-Pig Iron is a material [item](items.md) that can be forged to [Steel Ingots](items/steel_ingot) using a [Forge](miscellaneous/forges).
+Pig Iron is a material [item](../items.md) that can be forged to [Steel Ingots](../items/steel_ingot.md) using a [Forge](../miscellaneous/forges.md).
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Pig Iron is a material [item](items.md) that can be forged to [Steel Ingots](ite
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/pig_iron.png" alt="pig_iron" width="128" style="image-rendering: pixelated;">  
+<img src="../images/pig_iron.png" alt="pig_iron" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

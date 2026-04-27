@@ -1,5 +1,5 @@
 # Furnace
-Furnace is a Vanilla utility [block](blocks.md). It's texture and crafting recipe have been changed.
+Furnace is a Vanilla utility [block](../blocks.md). It's texture and crafting recipe have been changed.
 
 
 <table style="border-collapse: collapse; text-align: center; border: 2px solid #3a3a3a;">  

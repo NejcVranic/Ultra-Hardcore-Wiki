@@ -1,5 +1,5 @@
 # Crafting Table
-Crafting Table is a Vanilla utility [block](blocks.md). It's crafting recipe has been changed.
+Crafting Table is a Vanilla utility [block](../blocks.md). It's crafting recipe has been changed.
 
 The crafting recipe(s) produces 1 crafting table:
 

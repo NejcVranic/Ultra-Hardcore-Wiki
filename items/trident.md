@@ -1,5 +1,5 @@
 # Trident
-Trident is a Vanilla weapon [item](items.md). A crafting recipe for it has been added.
+Trident is a Vanilla weapon [item](../items.md). A crafting recipe for it has been added.
 
 
 <table style="border-collapse: collapse; text-align: center; border: 2px solid #3a3a3a;">  

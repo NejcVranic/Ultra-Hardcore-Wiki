@@ -1,5 +1,5 @@
 # Mattress
-Mattress is a material [item](items.md) that can be used to craft beds.
+Mattress is a material [item](../items.md) that can be used to craft beds.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Mattress is a material [item](items.md) that can be used to craft beds.
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/mattress.png" alt="mattress" width="128" style="image-rendering: pixelated;">  
+<img src="../images/mattress.png" alt="mattress" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  
@@ -28,7 +28,7 @@ Mattress is a material [item](items.md) that can be used to craft beds.
 </div>  
 </div>
 ### Obtaining
-A Mattress can be made by a master Shephard Villager if a [Mattress Materials](items/mattress_materials) item is next to it. When the item is in close proximity to the Villager, the Villager will consume the item, pause and drop a Mattress after a few seconds.
+A Mattress can be made by a master Shephard Villager if a [Mattress Materials](../items/mattress_materials.md) item is next to it. When the item is in close proximity to the Villager, the Villager will consume the item, pause and drop a Mattress after a few seconds.
 
 It is also sometimes sold by Shepherd Villagers. 
 > (They use the loom as their work station.)

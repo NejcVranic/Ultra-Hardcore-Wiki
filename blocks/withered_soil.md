@@ -1,5 +1,5 @@
 # Withered Soil
-Withered Soil is a spreading [block](blocks.md) that infects nearby terrain and can spawn wither skeletons.
+Withered Soil is a spreading [block](../blocks.md) that infects nearby terrain and can spawn wither skeletons.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -54,5 +54,5 @@ If a lingering potion of regeneration or instant health is within 4 blocks of a 
 When mined it will drop one brown dye. If mined with a shovel, a dirt block will drop instead. If the item used is enchanted with Silk Touch, a Withered Soil block will drop instead.
 
 ### Obtaining
-Outside of placing the block, the only way to create Withered Soil is by becoming infected with the [Wither Virus](miscellaneous/wither_virus). When a player carrying the Wither Virus stands over a grass block or farmland the block will become a dormant carrier and the player will lose the virus. 
+Outside of placing the block, the only way to create Withered Soil is by becoming infected with the [Wither Virus](../miscellaneous/wither_virus.md). When a player carrying the Wither Virus stands over a grass block or farmland the block will become a dormant carrier and the player will lose the virus. 
 

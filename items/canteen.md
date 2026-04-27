@@ -1,5 +1,5 @@
 # Canteen
-Canteen is a tool [item](items.md) that can hold water and, unlike a water bottle, can be drank from multiple times. 
+Canteen is a tool [item](../items.md) that can hold water and, unlike a water bottle, can be drank from multiple times. 
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -13,7 +13,7 @@ Canteen is a tool [item](items.md) that can hold water and, unlike a water bottl
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/canteen.png" alt="canteen" width="128" style="image-rendering: pixelated;">  
+<img src="../images/canteen.png" alt="canteen" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

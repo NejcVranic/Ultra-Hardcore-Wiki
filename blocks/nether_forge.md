@@ -1,5 +1,5 @@
 # Nether Forge
-Nether Forge is a utility [block](blocks.md) that allows the player to [forge](miscellaneous/forges) and repair items. It offers more forging recipes than [Deepslate Forge](blocks/deepslate_forge). An [Air Blower](blocks/air_blower) is required to power it.
+Nether Forge is a utility [block](../blocks.md) that allows the player to [forge](../miscellaneous/forges.md) and repair items. It offers more forging recipes than [Deepslate Forge](../blocks/deepslate_forge.md). An [Air Blower](../blocks/air_blower.md) is required to power it.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -70,7 +70,7 @@ Armor and Tools can be repaired using the forge by
 
 ### Forging
 Below is a list of items that can be forged in the Nether Forge:
-- [Steel Ingot](items/steel_ingot) 
+- [Steel Ingot](../items/steel_ingot.md) 
 - Steel Boots
 - Steel Chestplate
 - Steel Leggings 
@@ -80,9 +80,9 @@ Below is a list of items that can be forged in the Nether Forge:
 - Steel Shovel
 - Steel Sword
 - Steel Hoe
-- [Blaze Gold Ingot](items/blaze_gold_ingot) 
-- [Diamond Ingot](items/diamond_ingot) 
-- [Netherite Ingot](items/netherite_ingot) 
+- [Blaze Gold Ingot](../items/blaze_gold_ingot.md) 
+- [Diamond Ingot](../items/diamond_ingot.md) 
+- [Netherite Ingot](../items/netherite_ingot.md) 
 - Blaze Gold Boots
 - Blaze Gold Chestplate
 - Blaze Gold Leggings 

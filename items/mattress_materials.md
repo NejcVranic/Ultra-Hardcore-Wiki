@@ -1,5 +1,5 @@
 # Mattress Materials
-Mattress Materials is a material [item](items.md) that can be used to make a [Mattress](items/mattress). 
+Mattress Materials is a material [item](../items.md) that can be used to make a [Mattress](../items/mattress.md). 
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Mattress Materials is a material [item](items.md) that can be used to make a [Ma
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/mattress_materials.png" alt="mattress_materials" width="128" style="image-rendering: pixelated;">  
+<img src="../images/mattress_materials.png" alt="mattress_materials" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

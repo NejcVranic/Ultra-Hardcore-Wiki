@@ -1,5 +1,5 @@
 # Lit Torch
-Lit Torch is a tool [item](items.md) that can be used to place down a torch block for a limited time. It can only be obtained by lighting an [Unlit Torch](items/unlit_torch.md).
+Lit Torch is a tool [item](../items.md) that can be used to place down a torch block for a limited time. It can only be obtained by lighting an [Unlit Torch](../items/unlit_torch.md).
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -14,7 +14,7 @@ Lit Torch is a tool [item](items.md) that can be used to place down a torch bloc
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/torch_lit.png" alt="png" width="128" style="image-rendering: pixelated;">  
+<img src="../images/torch_lit.png" alt="png" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

@@ -1,5 +1,5 @@
 # Steel Ingot
-Blaze Gold Ingot is a material [item](items.md) that can be used in [forging](miscellaneous/forges) recipes. They are made by forging [Pig Iron](items/pig_iron).
+Blaze Gold Ingot is a material [item](../items.md) that can be used in [forging](../miscellaneous/forges.md) recipes. They are made by forging [Pig Iron](../items/pig_iron.md).
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Blaze Gold Ingot is a material [item](items.md) that can be used in [forging](mi
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/steel_ingot.png" alt="steel_ingot" width="128" style="image-rendering: pixelated;">  
+<img src="../images/steel_ingot.png" alt="steel_ingot" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

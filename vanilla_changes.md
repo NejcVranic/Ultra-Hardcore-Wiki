@@ -8,40 +8,40 @@ Below is a complete list of changes to Vanilla Minecraft introduced by Ultra Har
 
 ## Recipes
 Removed recipes:
-- White and gray carpet (replaced by [Knitten Fabric](items/knitten_fabric) and [Mattress](items/mattress))
+- White and gray carpet (replaced by [Knitten Fabric](./items/knitten_fabric.md) and [Mattress](./items/mattress.md))
 - Wooden and stone tools 
-- Iron armor (replaced by [Steel](material_tiers/steel_tier) armor)
-- Gold armor & tools (replaced by [Blaze Gold](material_tiers/blaze_gold_tier) armor & tools)
-- Diamond armor & tools (must be forged in a [Deepslate Forge](blocks/deepslate_forge) or [Nether Forge](blocks/nether_forge))
-- Diamond armor & tools cannot be upgraded to [Netherite](material_tiers/netherite_tier) in a smithing table (Netherite items must be forged in [Nether Forge](blocks/nether_forge))
+- Iron armor (replaced by [Steel](./material_tiers/steel_tier.md) armor)
+- Gold armor & tools (replaced by [Blaze Gold](./material_tiers/blaze_gold_tier.md) armor & tools)
+- Diamond armor & tools (must be forged in a [Deepslate Forge](./blocks/deepslate_forge.md) or [Nether Forge](./blocks/nether_forge.md))
+- Diamond armor & tools cannot be upgraded to [Netherite](./material_tiers/netherite_tier.md) in a smithing table (Netherite items must be forged in [Nether Forge](./blocks/nether_forge.md))
 
 Added recipes:
 - Dirt, crafted from 4 brown dye
 - Wooden planks, crafted from 4 wooden buttons of the same type
 - Chainmail armor, crafted with with chains in standard armor recipe shapes
-- [Trident](items/trident.md), crafted with heart of the sea, iron and lightning rod
+- [Trident](./items/trident.md), crafted with heart of the sea, iron and lightning rod
 - Saddle
 - Name tag
 - stick, crafted from any sapling 
 - cobblestone, crafted from 4 buttons
-- [Experience Bottle](items/experience_bottle) 
+- [Experience Bottle](./items/experience_bottle.md) 
 - bowl, crafted with 1 planks + flint
 
 Changed recipes:
-- [Beds](blocks/beds) (3 mattresses are now required as well)
-- [Campfire](blocks/campfire.md) 
-- [Chest](blocks/chest.md) 
-- [Crafting Table](blocks/crafting_table.md) 
-- [Eye of Ender](items/eye_of_ender)
-- [Furnace](blocks/furnace.md) 
-- [Loom](blocks/loom) 
-- [Torch](items/torch.md) (Vanilla Torch recipe now crafts [Unlit Torch](items/unlit_torch.md))
+- [Beds](./blocks/beds.md) (3 mattresses are now required as well)
+- [Campfire](./blocks/campfire.md) 
+- [Chest](./blocks/chest.md) 
+- [Crafting Table](./blocks/crafting_table.md) 
+- [Eye of Ender](./items/eye_of_ender.md)
+- [Furnace](./blocks/furnace.md) 
+- [Loom](./blocks/loom.md) 
+- [Torch](./items/torch.md) (Vanilla Torch recipe now crafts [Unlit Torch](./items/unlit_torch.md))
 - Smelting raw iron in a furnace produces an iron nugget (but when using a blasting furnace you still get an iron ingot)
 
- Added [Campfire](blocks/campfire.md) recipes:
+ Added [Campfire](./blocks/campfire.md) recipes:
 - Clay ball -> Brick
 - Wooden log -> Charcoal
-- Stick -> -nothing- (used only to fuel [Chiseled Campfire](blocks/chiseled_campfire.md))
+- Stick -> -nothing- (used only to fuel [Chiseled Campfire](./blocks/chiseled_campfire.md))
 
 ---
 
@@ -72,14 +72,14 @@ Changed recipes:
 ---
 
 ## Miscellaneous
-- Players HP scales with their experience (view [Health Scaling](health_scaling.md) for more)
+- Players HP scales with their experience (view [Health Scaling](./health_scaling.md) for more)
 - Hard mode is always turned on automatically on datapack reload
 - Villages removed
 - Untamed wolves agro the player at night
 - Cow, Donkeys and Horses kick the player when hurt by them
-- Every full moon is a [Red Moon](miscellaneous/red_moon) (More info in [Mobs](mobs.md) tab)
+- Every full moon is a [Red Moon](./miscellaneous/red_moon.md) (More info in [Mobs](./mobs.md) tab)
 - Stews are now stackable!
 - (Unfertilized) farmland has a random chance of reversing the growth stage of a crop placed upon it. In addition there is a random chance for a weed to grow, which has a random chance to replace the farmland with a grass block. In combination they make it impossible to grow crops on soil that has not been fertilized.
 - Drinking from (unfiltered) water bottles and (unpasturized) bucket of milk has a high chance of applying negative effects like hunger and poison.
-- Every full moon is a [Red Moon](miscellaneous/red_moon).
-- [Netherite](material_tiers/netherite_tier) armor has increased armor toughness
+- Every full moon is a [Red Moon](./miscellaneous/red_moon.md).
+- [Netherite](./material_tiers/netherite_tier.md) armor has increased armor toughness

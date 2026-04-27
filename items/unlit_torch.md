@@ -1,5 +1,5 @@
 # Unlit Torch
-Unlit Torch is a tool [item](items.md) that can be used to obtain a [Lit Torch](items/lit_torch.md), which can then be placed in the world as a torch block.
+Unlit Torch is a tool [item](../items.md) that can be used to obtain a [Lit Torch](../items/lit_torch.md), which can then be placed in the world as a torch block.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Unlit Torch is a tool [item](items.md) that can be used to obtain a [Lit Torch](
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/torch_unlit.png" alt="unlit_torch" width="128" style="image-rendering: pixelated;">  
+<img src="../images/torch_unlit.png" alt="unlit_torch" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  
@@ -54,7 +54,7 @@ The crafting recipe produces 1 Unlit Torch:
 A Lit torch will turn into an unlit torch if the player is holding it while submerged in water.
 
 ### Usage
-An unlit torch can be turned into a [Lit Torch](items/lit_torch.md) by using it (right clicking) on a block that is a fire source:
+An unlit torch can be turned into a [Lit Torch](../items/lit_torch.md) by using it (right clicking) on a block that is a fire source:
 - Lava
 - Fire
 - Lit campfire or soul campfire

@@ -1,6 +1,6 @@
 # Bandage
-Bandage is a tool [item](items.md) that can be used to grant the Regeneration effect for a short duration. It can be used to heal health and recover from [wounds](wounds.md). 
-[Bandage With Honey](items/bandage_with_honey) is a stronger variation of the Bandage.
+Bandage is a tool [item](../items.md) that can be used to grant the Regeneration effect for a short duration. It can be used to heal health and recover from [wounds](../wounds.md). 
+[Bandage With Honey](../items/bandage_with_honey.md) is a stronger variation of the Bandage.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -13,7 +13,7 @@ Bandage is a tool [item](items.md) that can be used to grant the Regeneration ef
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/bandage.png" alt="bandage" width="128" style="image-rendering: pixelated;">  
+<img src="../images/bandage.png" alt="bandage" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

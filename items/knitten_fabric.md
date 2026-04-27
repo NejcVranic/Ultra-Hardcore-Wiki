@@ -1,5 +1,5 @@
 # Knitten Fabric
-Knitten Fabric is a material [item](items.md). It's used to craft [bandages](items/bandage) and [Mattress Materials](items/mattress_materials).
+Knitten Fabric is a material [item](../items.md). It's used to craft [bandages](../items/bandage.md) and [Mattress Materials](../items/mattress_materials.md).
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Knitten Fabric is a material [item](items.md). It's used to craft [bandages](ite
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/knitten_fabric.png" alt="knitten_fabric" width="128" style="image-rendering: pixelated;">  
+<img src="../images/knitten_fabric.png" alt="knitten_fabric" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  
@@ -29,7 +29,7 @@ Knitten Fabric is a material [item](items.md). It's used to craft [bandages](ite
 </div>
 
 ### Obtaining
-It is the reward you get after using the [Knitting Kit](items/knitting_kit).
+It is the reward you get after using the [Knitting Kit](../items/knitting_kit.md).
 
 Droping white wool on top of a loom with turn it into a white carpet (knitten fabric).
 

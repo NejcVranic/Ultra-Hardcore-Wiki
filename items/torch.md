@@ -1,5 +1,5 @@
 # Torch
-Lit Torch is a Vanilla tool [item](items.md). It's crafting recipe has been changed. [Lit Torch](items/lit_torch.md) is similar but has a limited burn time.
+Lit Torch is a Vanilla tool [item](../items.md). It's crafting recipe has been changed. [Lit Torch](../items/lit_torch.md) is similar but has a limited burn time.
 
 The crafting recipe produces 4 torches:
 

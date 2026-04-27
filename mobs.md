@@ -8,9 +8,9 @@ The datapack expands vanilla mobs with new variants, additional enemies, and a d
 
 ---
 ## Added Mobs
-- [Nether Golem](mobs/nether_golem.md) 
-- [Nether Shulker](mobs/nether_shulker.md) 
-- [Zombie Brute](mobs/zombie_brute.md) 
+- [Nether Golem](./mobs/nether_golem.md) 
+- [Nether Shulker](./mobs/nether_shulker.md) 
+- [Zombie Brute](./mobs/zombie_brute.md) 
 ---
 ## Mob Jockeys
 Zombie Jockeys:
@@ -24,7 +24,7 @@ Husk Jockeys:
 ## Mob Enhancements
 Mob Enhancements are part of the dynamic difficulty system, scaling hostile mobs based on player progression.
 
-Each player has a **Difficulty Score** ranging from 1 to 5. This score increases over time and upon first entering the Nether. During a [Red Moon](miscellaneous/red_moon), the player’s difficulty is temporarily increased by 2.
+Each player has a **Difficulty Score** ranging from 1 to 5. This score increases over time and upon first entering the Nether. During a [Red Moon](./miscellaneous/red_moon.md), the player’s difficulty is temporarily increased by 2.
 
 When a mob spawns, it is assigned a **static difficulty level** based on the average Difficulty Score of the nearest three players within a 128-block radius. This value is fixed at spawn and determines the mob’s enhancements.
 

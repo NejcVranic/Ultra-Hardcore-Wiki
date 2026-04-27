@@ -1,5 +1,5 @@
 # Air Blower
-Air Blower is a [block](blocks.md) that can be used to power the [Nether Forge](blocks/nether_forge) and as decoration.
+Air Blower is a [block](../blocks.md) that can be used to power the [Nether Forge](../blocks/nether_forge.md) and as decoration.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  

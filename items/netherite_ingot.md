@@ -1,7 +1,7 @@
 # Netherite Ingot
-Netherite Ingot is a Vanilla material [item](items.md). It's crafting recipe has been replaced with a forging recipe.
+Netherite Ingot is a Vanilla material [item](../items.md). It's crafting recipe has been replaced with a forging recipe.
 
-It can be used to upgrade diamond armor and tools to netherite variants using the [Nether Forge](blocks/nether_forge). 
+It can be used to upgrade diamond armor and tools to netherite variants using the [Nether Forge](../blocks/nether_forge.md). 
 
 
 <table style="border-collapse: collapse; text-align: center; border: 2px solid #3a3a3a;">  

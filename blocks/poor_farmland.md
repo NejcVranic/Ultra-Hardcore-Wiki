@@ -1,5 +1,5 @@
 # Poor Farmland
-Poor Farmland is a [block](blocks.md), which can be used to plant crops, just like the Vanilla farmland block. In effect, crops grow slower on poor farmland compared to Vanilla farmland. It will grow weeds, which can be removed with [gardening shears](items/gardening_shears).
+Poor Farmland is a [block](../blocks.md), which can be used to plant crops, just like the Vanilla farmland block. In effect, crops grow slower on poor farmland compared to Vanilla farmland. It will grow weeds, which can be removed with [gardening shears](../items/gardening_shears.md).
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  

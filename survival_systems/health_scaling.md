@@ -1,5 +1,5 @@
 # Health
-Health scaling is a [Survival System](survival_systems.md) which scales player's max HP with their experience levels.
+Health scaling is a [Survival System](../survival_systems.md) which scales player's max HP with their experience levels.
 
 The player's experience level determines their max HP:
 - Lvl 0-4 -> 2 health (1 heart) 

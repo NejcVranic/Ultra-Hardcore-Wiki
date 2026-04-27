@@ -1,5 +1,5 @@
 # Experience Bottle
-Experience Bottle is a Vanilla [item](items.md). It's texture has been changed and crafting recipe(s) has been added.
+Experience Bottle is a Vanilla [item](../items.md). It's texture has been changed and crafting recipe(s) has been added.
 
 
 <table style="border-collapse: collapse; text-align: center; border: 2px solid #3a3a3a;">  

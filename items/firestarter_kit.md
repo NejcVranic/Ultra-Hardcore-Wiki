@@ -1,5 +1,5 @@
 # Firestarter Kit
-Firestarter Kit is a tool [item](items.md) that can be used to create fire and light blocks in a similar way to the Flint and Steel.
+Firestarter Kit is a tool [item](../items.md) that can be used to create fire and light blocks in a similar way to the Flint and Steel.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Firestarter Kit is a tool [item](items.md) that can be used to create fire and l
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/firestarter_kit.png" alt="firestarter_kit" width="128" style="image-rendering: pixelated;">  
+<img src="../images/firestarter_kit.png" alt="firestarter_kit" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

@@ -1,5 +1,5 @@
 # Blaze Gold Ingot
-Blaze Gold Ingot is a material [item](items.md) that can be used in [forging](miscellaneous/forges) recipes.
+Blaze Gold Ingot is a material [item](../items.md) that can be used in [forging](../miscellaneous/forges.md) recipes.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  

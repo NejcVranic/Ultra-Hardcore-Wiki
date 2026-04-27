@@ -1,5 +1,5 @@
 # Diamond Ingot
-Diamond Ingot is a material [item](items.md) that can be used in [forging](miscellaneous/forges) recipes.
+Diamond Ingot is a material [item](../items.md) that can be used in [forging](../miscellaneous/forges.md) recipes.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Diamond Ingot is a material [item](items.md) that can be used in [forging](misce
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/diamond_ingot.png" alt="diamond_ingot" width="128" style="image-rendering: pixelated;">  
+<img src="../images/diamond_ingot.png" alt="diamond_ingot" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

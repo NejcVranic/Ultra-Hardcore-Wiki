@@ -1,5 +1,5 @@
 # Nether Core
-Nether Core is a material [item](items.md) that can be used to [forge](miscellaneous/forges) [Ancient Debris](items/ancient_debris).
+Nether Core is a material [item](../items.md) that can be used to [forge](../miscellaneous/forges) [Ancient Debris](../items/ancient_debris.md).
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Nether Core is a material [item](items.md) that can be used to [forge](miscellan
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/nether_core.png" alt="nether_core" width="128" style="image-rendering: pixelated;">  
+<img src="../images/nether_core.png" alt="nether_core" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

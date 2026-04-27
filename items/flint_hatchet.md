@@ -1,5 +1,5 @@
 # Flint Hatchet
-Flint Hatchet is a tool [item](items.md) that can be used to break wood.
+Flint Hatchet is a tool [item](../items.md) that can be used to break wood.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Flint Hatchet is a tool [item](items.md) that can be used to break wood.
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/flint_hatchet.png" alt="flint_hatchet" width="128" style="image-rendering: pixelated;">  
+<img src="../images/flint_hatchet.png" alt="flint_hatchet" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

@@ -1,5 +1,5 @@
 # Flint Chisel
-Flint Chisel is a tool [item](items.md) that can be used in multiple ways and allows the player to obtain other materials. [Iron Chisel](items/iron_chisel) is a higher tier version of the tool.
+Flint Chisel is a tool [item](../items.md) that can be used in multiple ways and allows the player to obtain other materials. [Iron Chisel](../items/iron_chisel.md) is a higher tier version of the tool.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Flint Chisel is a tool [item](items.md) that can be used in multiple ways and al
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/flint_chisel.png" alt="flint_chisel" width="128" style="image-rendering: pixelated;">  
+<img src="../images/flint_chisel.png" alt="flint_chisel" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  
@@ -60,7 +60,7 @@ A chisel can be used on multiple blocks to produce various results:
 | Block used on | Result                                                                                        |
 | ------------- | --------------------------------------------------------------------------------------------- |
 | Stone         | 1 in 3 chance to produce a stone button                                                       |
-| Any log       | 1 in 10 chance to turn the log into an unlit [Chiseled Campfire](blocks/chiseled_campfire.md) |
+| Any log       | 1 in 10 chance to turn the log into an unlit [Chiseled Campfire](../blocks/chiseled_campfire.md) |
 | Coal ore      | 1 in 10 chance to turn the block into stone and produce 1 coal                                |
 | Copper ore    | 1 in 10 chance to turn the block into stone and produce 1 raw copper                          |
 | Iron ore      | 1 in 10 chance to turn the block into stone and produce 1 raw iron                            |

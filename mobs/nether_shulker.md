@@ -1,5 +1,5 @@
 # Nether Shulker
-Nether Shulkers are hostile [mobs](mobs.md) which spawn in the nether. Their textures closely resemble netherrack, warped nylium or crimson nylium helping them blend into the environment. They are a renewable source of netherrack.
+Nether Shulkers are hostile [mobs](../mobs.md) which spawn in the nether. Their textures closely resemble netherrack, warped nylium or crimson nylium helping them blend into the environment. They are a renewable source of netherrack.
 
 They teleport and shoot projectiles which follow the player like the shulker does. If the projectile hits a player, they will gain an anti-levitation effect (making them unable to jump) and set fire to the block they're standing on.
 

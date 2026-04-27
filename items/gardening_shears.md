@@ -1,5 +1,5 @@
 # Gardening Shears
-Gardening Shears is a tool [item](items.md) that can be used to remove weeds from [Poor Farmland](blocks/poor_farmland).
+Gardening Shears is a tool [item](../items.md) that can be used to remove weeds from [Poor Farmland](../blocks/poor_farmland.md).
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Gardening Shears is a tool [item](items.md) that can be used to remove weeds fro
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/gardening_shears.png" alt="gardening_shears" width="128" style="image-rendering: pixelated;">  
+<img src="../images/gardening_shears.png" alt="gardening_shears" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

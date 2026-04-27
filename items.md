@@ -27,65 +27,65 @@ Below is a list of all items added or changed by Ultra Hardcore
 
 ## Materials
 - [Blaze Gold Ingot](./items/blaze_gold_ingot.md) 
-- [Diamond Ingot](items/diamond_ingot) 
-- [Knitten Fabric](items/knitten_fabric) 
-- [Leather Strip](items/leather_strip) 
-- [Mattress Materials](items/mattress_materials) 
-- [Mattress](items/mattress) 
-- [Nether Core](items/nether_core) 
-- [Netherite Ingot](items/netherite_ingot) 
-- [Obsidian Powder](items/obsidian_powder) 
-- [Pig Iron](items/pig_iron) 
-- [Steel Ingot](items/steel_ingot) 
+- [Diamond Ingot](./items/diamond_ingot.md) 
+- [Knitten Fabric](./items/knitten_fabric.md) 
+- [Leather Strip](./items/leather_strip.md) 
+- [Mattress Materials](./items/mattress_materials.md) 
+- [Mattress](./items/mattress.md) 
+- [Nether Core](./items/nether_core.md) 
+- [Netherite Ingot](./items/netherite_ingot.md) 
+- [Obsidian Powder](./items/obsidian_powder.md) 
+- [Pig Iron](./items/pig_iron.md) 
+- [Steel Ingot](./items/steel_ingot.md) 
 
 ## Miscellaneous
-- [Bandage With Honey](items/bandage_with_honey) 
-- [Bandage](items/bandage) 
-- [Brute Tear](items/brute_tear) 
-- [Canteen](items/canteen.md) 
-- [Experience Bottle](items/experience_bottle) 
-- [Eye of Ender](items/eye_of_ender) 
-- [Filtered Water Bottle](items/filtered_water_bottle) 
-- [Firestarter Kit](items/firestarter_kit) 
-- [Glistening Honey](items/glistening_honey) 
-- [Goat horn](items/goat_horn) 
-- [Knitting Kit](items/knitting_kit) 
-- [Lit Torch](items/lit_torch.md) 
-- [Nutrition Monitor](items/nutrition_monitor) 
-- [Pasturized Bucked of Milk](items/pasturized_bucket_of_milk) 
-- [Trident](items/trident.md) 
-- [Torch](items/torch.md) 
-- [Unlit Torch](items/unlit_torch.md) 
+- [Bandage](./items/bandage.md) 
+- [Bandage With Honey](./items/bandage_with_honey.md) 
+- [Brute Tear](./items/brute_tear.md) 
+- [Canteen](./items/canteen.md) 
+- [Experience Bottle](./items/experience_bottle.md) 
+- [Eye of Ender](./items/eye_of_ender.md) 
+- [Filtered Water Bottle](./items/filtered_water_bottle.md) 
+- [Firestarter Kit](./items/firestarter_kit.md) 
+- [Glistening Honey](./items/glistening_honey.md) 
+- [Goat horn](./items/goat_horn.md) 
+- [Knitting Kit](./items/knitting_kit.md) 
+- [Lit Torch](./items/lit_torch.md) 
+- [Nutrition Monitor](./items/nutrition_monitor.md) 
+- [Pasturized Bucked of Milk](./items/pasturized_bucket_of_milk.md) 
+- [Trident](./items/trident.md) 
+- [Torch](./items/torch.md) 
+- [Unlit Torch](./items/unlit_torch.md) 
 
 ## Armor & Tool Tiers
 
-### [Flint Tier](material_tiers/flint_tier.md) 
-- [Flint Chisel](flint_chisel.md) 
-- [Flint Hatchet](flint_hatchet.md) 
+### [Flint Tier](./material_tiers/flint_tier.md) 
+- [Flint Chisel](./flint_chisel.md) 
+- [Flint Hatchet](./flint_hatchet.md) 
 
-### [Copper Tier](material_tiers/copper_tier.md) 
+### [Copper Tier](./material_tiers/copper_tier.md) 
 - Copper Shield
 - Copper Axe
 - Copper Pickaxe
 - Copper Shovel
 - Copper Sword
 - Copper Hoe
-- [Gardening Shears](items/gardening_shears) 
+- [Gardening Shears](./items/gardening_shears.md) 
 
-### [Iron Tier](material_tiers/iron_tier) 
+### [Iron Tier](./material_tiers/iron_tier.md) 
 - Iron Axe
 - Iron Pickaxe
 - Iron Shovel
 - Iron Sword
 - Iron Hoe
-- [Iron Chisel](items/iron_chisel) 
+- [Iron Chisel](./items/iron_chisel.md) 
 - Iron Chain Boots
 - Iron Chain Chestplate
 - Iron Chain Leggings 
 - Iron Chain Helmet
-- [Hydrating Helmet](items/hydrating_helmet.md) 
+- [Hydrating Helmet](./items/hydrating_helmet.md) 
 
-### [Steel Tier](material_tiers/steel_tier) 
+### [Steel Tier](./material_tiers/steel_tier.md) 
 - Steel Boots
 - Steel Chestplate
 - Steel Leggings 
@@ -97,14 +97,14 @@ Below is a list of all items added or changed by Ultra Hardcore
 - Steel Sword
 - Steel Hoe
 
-### [Amethyst Tier](material_tiers/amethyst_tier) 
+### [Amethyst Tier](./material_tiers/amethyst_tier.md) 
 - Amethyst Axe
 - Amethyst Pickaxe
 - Amethyst Shovel
 - Amethyst Sword
 - Amethyst Hoe
 
-### [Blaze Gold Tier](material_tiers/blaze_gold_tier) 
+### [Blaze Gold Tier](./material_tiers/blaze_gold_tier.md) 
 - Blaze Gold Boots
 - Blaze Gold Chestplate
 - Blaze Gold Leggings 
@@ -116,7 +116,7 @@ Below is a list of all items added or changed by Ultra Hardcore
 - Blaze Gold Sword
 - Blaze Gold Hoe
 
-### [Diamond Tier](material_tiers/diamond_tier) 
+### [Diamond Tier](./material_tiers/diamond_tier.md) 
 - Diamond Boots
 - Diamond Chestplate
 - Diamond Leggings 
@@ -128,7 +128,7 @@ Below is a list of all items added or changed by Ultra Hardcore
 - Diamond Sword
 - Diamond Hoe
 
-### [Netherite Tier](material_tiers/netherite_tier) 
+### [Netherite Tier](./material_tiers/netherite_tier.md) 
 - Netherite Boots
 - Netherite Chestplate
 - Netherite Leggings 

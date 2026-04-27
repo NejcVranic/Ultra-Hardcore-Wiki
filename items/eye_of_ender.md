@@ -1,5 +1,5 @@
 # Eye of Ender
-Eye of Ender is a Vanilla [item](items.md). It's crafting recipe has been changed.
+Eye of Ender is a Vanilla [item](../items.md). It's crafting recipe has been changed.
 
 The crafting recipe produces 16 Eye of Ender:
 

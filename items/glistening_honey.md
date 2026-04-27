@@ -1,5 +1,5 @@
 # Glistening Honey
-Glistening Honey is a tool [item](items.md) that can be used multiple times to grand Regeneration to the player.
+Glistening Honey is a tool [item](../items.md) that can be used multiple times to grand Regeneration to the player.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -13,7 +13,7 @@ Glistening Honey is a tool [item](items.md) that can be used multiple times to g
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/glistening_honey.png" alt="glistening_honey" width="128" style="image-rendering: pixelated;">  
+<img src="../images/glistening_honey.png" alt="glistening_honey" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

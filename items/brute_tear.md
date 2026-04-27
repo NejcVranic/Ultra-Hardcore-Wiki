@@ -1,5 +1,5 @@
 # Brute Tear
-Brute Tear is a material [item](items.md) that can be used to craft a [Diamond Ingot](items/diamond_ingot).
+Brute Tear is a material [item](../items.md) that can be used to craft a [Diamond Ingot](../items/diamond_ingot.md).
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -12,7 +12,7 @@ Brute Tear is a material [item](items.md) that can be used to craft a [Diamond I
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/brute_tear.png" alt="brute_tear" width="128" style="image-rendering: pixelated;">  
+<img src="../images/brute_tear.png" alt="brute_tear" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

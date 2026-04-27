@@ -1,7 +1,7 @@
 # Loom
-Loom is a vanilla utility [block](blocks.md) that can be used to customize banners. It's crafting recipe has been changed. It can be used to obtain [Knitten Fabric](items/knitten_fabric). 
+Loom is a vanilla utility [block](../blocks.md) that can be used to customize banners. It's crafting recipe has been changed. It can be used to obtain [Knitten Fabric](../items/knitten_fabric.md). 
 
-When a white wool item is dropped on top it will be converted to a white carpet ([Knitten Fabric](items/knitten_fabric)). 
+When a white wool item is dropped on top it will be converted to a white carpet ([Knitten Fabric](../items/knitten_fabric.md)). 
 
 ### Obtaining
 

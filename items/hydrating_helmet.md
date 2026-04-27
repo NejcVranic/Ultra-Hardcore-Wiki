@@ -1,5 +1,5 @@
 # Hydrating Helmet
-Hydrating Helmet is an armor [item](items.md) that passively increases the player's hydration score. It belongs to the [iron material tier](material_tiers/iron_tier).
+Hydrating Helmet is an armor [item](../items.md) that passively increases the player's hydration score. It belongs to the [iron material tier](../material_tiers/iron_tier.md).
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -13,7 +13,7 @@ Hydrating Helmet is an armor [item](items.md) that passively increases the playe
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/hydrating_helmet.png" alt="hydrating_helmet" width="128" style="image-rendering: pixelated;">  
+<img src="../images/hydrating_helmet.png" alt="hydrating_helmet" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

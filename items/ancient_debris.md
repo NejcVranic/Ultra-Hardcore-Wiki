@@ -1,5 +1,5 @@
 # Ancient Debris
-Ancient Debris are a Vanilla [block](blocks.md). They can be forged inside a [Forge](miscellaneous/forges).
+Ancient Debris are a Vanilla [block](../blocks.md). They can be forged inside a [Forge](../miscellaneous/forges.md).
 
 
 <table style="border-collapse: collapse; text-align: center; border: 2px solid #3a3a3a;">  

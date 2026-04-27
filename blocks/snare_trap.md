@@ -1,5 +1,5 @@
 # Snare Trap
-Snare Trap is a [block](blocks.md) that can be used to catch wild Rabbits in the forest biome.
+Snare Trap is a [block](../blocks.md) that can be used to catch wild Rabbits in the forest biome.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
