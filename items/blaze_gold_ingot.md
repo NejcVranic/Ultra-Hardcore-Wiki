@@ -12,7 +12,7 @@ Blaze Gold Ingot is a material [item](items.md) that can be used in [forging](mi
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/blaze_ingot.png" alt="blaze_gold_ingot" width="128" style="image-rendering: pixelated;">  
+<img src="../images/blaze_ingot.png" alt="blaze_gold_ingot" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

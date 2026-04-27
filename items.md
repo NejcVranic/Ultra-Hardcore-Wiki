@@ -26,7 +26,7 @@ Below is a list of all items added or changed by Ultra Hardcore
 - Sweet Berry Pie
 
 ## Materials
-- [Blaze Gold Ingot](items/blaze_gold_ingot) 
+- [Blaze Gold Ingot](./items/blaze_gold_ingot) 
 - [Diamond Ingot](items/diamond_ingot) 
 - [Knitten Fabric](items/knitten_fabric) 
 - [Leather Strip](items/leather_strip) 
