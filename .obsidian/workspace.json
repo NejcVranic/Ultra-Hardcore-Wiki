@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items/hydrating_helmet.md",
+                "file": "blocks/deepslate_forge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hydrating_helmet"
+              "title": "deepslate_forge"
             }
           }
         ]
@@ -185,10 +185,14 @@
   },
   "active": "7594d83b4d28c78c",
   "lastOpenFiles": [
+    "blocks.md",
     "items.md",
+    "structures.md",
+    "images/deepslate_forge.png",
+    "images/2026-04-30_16.55.47.png",
+    "items/hydrating_helmet.md",
     "beginner_guide.md",
     "README.md",
-    "structures.md",
     "survival_systems/frost.md",
     "blocks/chiseled_campfire.md",
     "items/leather_strip.md",
@@ -208,8 +212,6 @@
     "material_tiers/netherite_tier.md",
     "material_tiers/diamond_tier.md",
     "material_tiers/amethyst_tier.md",
-    "material_tiers/steel_tier.md",
-    "items/hydrating_helmet.md",
-    "items/iron_chisel.md"
+    "material_tiers/steel_tier.md"
   ]
 }
