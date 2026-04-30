@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items.md",
+                "file": "items/hydrating_helmet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "items"
+              "title": "hydrating_helmet"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "7594d83b4d28c78c",
   "lastOpenFiles": [
-    "items/leather_strip.md",
     "items.md",
+    "beginner_guide.md",
+    "README.md",
+    "structures.md",
+    "survival_systems/frost.md",
+    "blocks/chiseled_campfire.md",
+    "items/leather_strip.md",
     "material_tiers/copper_tier.md",
     "material_tiers/list.md",
     "material_tiers/flint_tier.md",
@@ -205,11 +210,6 @@
     "material_tiers/amethyst_tier.md",
     "material_tiers/steel_tier.md",
     "items/hydrating_helmet.md",
-    "items/iron_chisel.md",
-    "material_tiers/iron_tier.md",
-    "items/gardening_shears.md",
-    "items/flint_hatchet.md",
-    "items/flint_chisel.md",
-    "items/unlit_torch.md"
+    "items/iron_chisel.md"
   ]
 }

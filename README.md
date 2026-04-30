@@ -26,12 +26,10 @@ As a datapack, Ultra Hardcore benefits from being Vanilla compatible and easy to
 ---
 
 ## How to install
-You can get the datapack on modrinth: https://modrinth.com/project/ultra-hardcore-datapack
-
-You can get the resource pack on modrinth: https://modrinth.com/project/ultra-hardcore-resource-pack
+You can get the **datapack** on **modrinth**: https://modrinth.com/project/ultra-hardcore-datapack
 
 <span style="color:rgb(250, 0, 0)">!!! This datapack requries</span> [Optifine](https://optifine.net/home) (a client-side mod for performance) for rendering custom entity textures!
-<span style="color:rgb(250, 0, 0)">!!! A</span> [resource pack] <span style="color:rgb(250, 0, 0)">is required</span> for the custom textures to load!
+<span style="color:rgb(250, 0, 0)">!!! A</span> [resource pack](https://modrinth.com/project/ultra-hardcore-resource-pack) <span style="color:rgb(250, 0, 0)">is required</span> for the custom textures to load!
 
 > When you enter your world with this datapack enabled, it will give you a warning "World using experimental settings are not supported." This is normal, Minecraft just likes to complain if you add custom structures. There is no need for concern, you can click "I know what im doing!" to enter the world.
 

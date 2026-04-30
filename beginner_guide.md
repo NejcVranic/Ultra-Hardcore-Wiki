@@ -44,7 +44,7 @@ If you've survived the first night, congratulations! Unfortunately, things only 
 
 In short, you can regain some hydration by eating fruit and stews, but it's not a real solution to the problem. You need to get bottles of water and it starts by making a furnace. You can find more info in the 'Hydration' section of the guide below.
 
-You should try to collect and eating as many different food items as you can to avoid effects of malnourishment.
+You should try to collect and eating as many different food items as you can to avoid effects of malnourishment. You can easily catch rabbits by making a snare trap and putting it in the forest floor.
 
 And uh... you might have noticed you're missing a few hearts. Don't panic that's normal. Most people only have one heart, but you can get more by gaining experience.
 The best (safest) way to gain experience in the early game is by killing animals and using a furnace. You can run around finding and killing pigs, chickens and sheep. You can also start killing cows by one-shotting them with a critical hit from any axe (not the flint hatchet). But, the best way to gain experience, is by killing Cod and Salmon that respawn in rivers and oceans... as long as you stay away from squids.
