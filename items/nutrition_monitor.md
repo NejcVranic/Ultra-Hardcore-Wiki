@@ -1,5 +1,5 @@
 # Nutrition Monitor
-Nutrition Monitor is a tool [item](../items.md) that can be used to inform the player of their [nutrition](../nutrition.md). 
+Nutrition Monitor is a tool [item](../items.md) that can be used to inform the player of their [nutrition](../survival_systems/nutrition.md). 
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  

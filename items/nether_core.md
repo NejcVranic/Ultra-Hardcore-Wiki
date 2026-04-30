@@ -27,6 +27,7 @@ Nether Core is a material [item](../items.md) that can be used to [forge](../mis
 </div>  
 </div>  
 </div>
+
 ### Obtaining
 Nether Golems can drop a Nether Core on death.
 

@@ -15,6 +15,17 @@ Removed recipes:
 - Diamond armor & tools (must be forged in a [Deepslate Forge](./blocks/deepslate_forge.md) or [Nether Forge](./blocks/nether_forge.md))
 - Diamond armor & tools cannot be upgraded to [Netherite](./material_tiers/netherite_tier.md) in a smithing table (Netherite items must be forged in [Nether Forge](./blocks/nether_forge.md))
 
+Changed recipes:
+- [Beds](./blocks/beds.md) (3 mattresses are now required as well)
+- [Campfire](./blocks/campfire.md) 
+- [Chest](./blocks/chest.md) 
+- [Crafting Table](./blocks/crafting_table.md) 
+- [Eye of Ender](./items/eye_of_ender.md)
+- [Furnace](./blocks/furnace.md) 
+- [Loom](./blocks/loom.md) 
+- [Torch](./items/torch.md) (Vanilla Torch recipe now crafts [Unlit Torch](./items/unlit_torch.md))
+- Smelting raw iron in a furnace produces an iron nugget (but when using a blasting furnace you still get an iron ingot)
+
 Added recipes:
 - Dirt, crafted from 4 brown dye
 - Wooden planks, crafted from 4 wooden buttons of the same type
@@ -26,17 +37,6 @@ Added recipes:
 - cobblestone, crafted from 4 buttons
 - [Experience Bottle](./items/experience_bottle.md) 
 - bowl, crafted with 1 planks + flint
-
-Changed recipes:
-- [Beds](./blocks/beds.md) (3 mattresses are now required as well)
-- [Campfire](./blocks/campfire.md) 
-- [Chest](./blocks/chest.md) 
-- [Crafting Table](./blocks/crafting_table.md) 
-- [Eye of Ender](./items/eye_of_ender.md)
-- [Furnace](./blocks/furnace.md) 
-- [Loom](./blocks/loom.md) 
-- [Torch](./items/torch.md) (Vanilla Torch recipe now crafts [Unlit Torch](./items/unlit_torch.md))
-- Smelting raw iron in a furnace produces an iron nugget (but when using a blasting furnace you still get an iron ingot)
 
  Added [Campfire](./blocks/campfire.md) recipes:
 - Clay ball -> Brick
@@ -83,3 +83,4 @@ Changed recipes:
 - Drinking from (unfiltered) water bottles and (unpasturized) bucket of milk has a high chance of applying negative effects like hunger and poison.
 - Every full moon is a [Red Moon](./miscellaneous/red_moon.md).
 - [Netherite](./material_tiers/netherite_tier.md) armor has increased armor toughness
+

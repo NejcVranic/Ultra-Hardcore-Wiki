@@ -13,7 +13,7 @@ Snare Trap is a [block](../blocks.md) that can be used to catch wild Rabbits in 
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/snare_trap.png" alt="snare_trap" width="128" style="image-rendering: pixelated;">  
+<img src="../images/snare_trap.png" alt="snare_trap" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  

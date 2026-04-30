@@ -3,7 +3,9 @@ Gardening Shears is a tool [item](../items.md) that can be used to remove weeds 
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
-<p>When used on poor farmland with weeds growing on the the block, the weeds will be removed and oak leaves will drop.</p>
+<p>When used on poor farmland with weeds growing on the the block, the weeds will be removed and there is a chance some plants will drop:</p>
+<p>- 20% chance for short grass</p>
+<p>- 20% chance for oak leaves</p>
 </div>  
 	
 <div style="width: 250px; border: 2px solid #3a3a3a; font-family: sans-serif;">  

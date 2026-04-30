@@ -34,6 +34,7 @@ Iron Chisel is a tool [item](../items.md) that can be used in multiple ways and 
 
 </div>  
 </div>
+
 ### Obtaining
 The crafting recipe produces 1 Iron Chisel:
 

@@ -1,5 +1,5 @@
-# Cold
-Cold is a [Survival System](../survival_systems.md) which adds conditions for freezing.
+# Frost
+Frost is a [Survival System](../survival_systems.md) which adds conditions for freezing.
 
 At night, the player will begin freezing if none of the following criteria is met:
 - Player is wearing a piece of leather armor
@@ -8,9 +8,9 @@ At night, the player will begin freezing if none of the following criteria is me
 - Player's head is not in an air block (unintended)
 
 Sources of heat include:
-- lit campfire, soul campfire and [chiseled campfire](../blocks/chiseled_campfire.md)
-- active furnace
-- Lava
+- lit campfire, soul campfire and [chiseled campfire](../blocks/chiseled_campfire.md),
+- active furnace,
+- Lava and
 - Fire
 
 The game checks for sources of heat within 3 blocks on the horizontal (XZ) plane and 2 blocks on the vertical (Y) axis.

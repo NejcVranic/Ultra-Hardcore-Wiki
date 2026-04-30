@@ -1,5 +1,5 @@
 # Chiseled Campfire
-Chiseled Campfire is a [block](../blocks.md) that can be produced by using a [Flint Chisel](../flint_chisel.md) or [Iron Chisel](../iron_chisel.md) on a wooden log of any type. It has the same properties as a regular [campfire](../blocks/campfire.md), but has a limited burn time.
+Chiseled Campfire is a [block](../blocks.md) that can be produced by using a [Flint Chisel](../items/flint_chisel.md) or [Iron Chisel](../items/iron_chisel.md) on a wooden log of any type. It has the same properties as a regular [campfire](../blocks/campfire.md), but has a limited burn time.
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
@@ -14,7 +14,7 @@ Chiseled Campfire is a [block](../blocks.md) that can be produced by using a [Fl
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/chiseled_campfire.png" alt="chiseled_campfire" width="128" style="image-rendering: pixelated;">  
+<img src="../images/chiseled_campfire.png" alt="chiseled_campfire" width="128" style="image-rendering: pixelated;">  
 </div>  
 
 <!-- BASIC INFO -->  
@@ -31,4 +31,4 @@ Chiseled Campfire is a [block](../blocks.md) that can be produced by using a [Fl
 </div>
 
 ### Usage
-The Chiseled Campfire can be used the same way as the regular campfire and soul campfire. It can be used to cook items, burns entities standing on top of it, emits light and can serve as a source of heat to [cold](../survival_systems/cold.md) players.
+The Chiseled Campfire can be used the same way as the regular campfire and soul campfire. It can be used to cook items, burns entities standing on top of it, emits light and can serve as a source of heat to [freezing](../survival_systems/frost.md) players.

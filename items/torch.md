@@ -1,5 +1,5 @@
 # Torch
-Lit Torch is a Vanilla tool [item](../items.md). It's crafting recipe has been changed. [Lit Torch](../items/lit_torch.md) is similar but has a limited burn time.
+Lit Torch is a Vanilla tool [item](../items.md). It's crafting recipe has been changed. [Lit Torch](../items/lit_torch.md) is similar, but has a limited burn time.
 
 The crafting recipe produces 4 torches:
 
@@ -10,21 +10,12 @@ The crafting recipe produces 4 torches:
 </tr>  
 <!-- ROW 1 -->  
 <tr>  
-<td style="border: 1px solid #aaa;"></td>  
-<td style="border: 1px solid #aaa;">Stick</td>  
-<td style="border: 1px solid #aaa;"></td>  
+<td style="border: 1px solid #aaa;">Netherrack</td>  
 </tr>  
 <!-- ROW 2 -->  
 <tr>  
 <td style="border: 1px solid #aaa;">Stick</td>  
-<td style="border: 1px solid #aaa;">Netherrack</td>  
-<td style="border: 1px solid #aaa;">Stick</td>  
-</tr>  
-<!-- ROW 3 -->  
-<tr>  
-<td style="border: 1px solid #aaa;"></td>  
-<td style="border: 1px solid #aaa;">Stick</td>  
-<td style="border: 1px solid #aaa;"></td>  
 </tr>  
 </table>
+
 

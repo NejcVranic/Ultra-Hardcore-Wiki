@@ -33,6 +33,7 @@ Unlit Torch is a tool [item](../items.md) that can be used to obtain a [Lit Torc
 </div>  
 </div>  
 </div>
+
 ### Obtaining
 The crafting recipe produces 1 Unlit Torch:
 

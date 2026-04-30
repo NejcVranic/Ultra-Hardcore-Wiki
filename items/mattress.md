@@ -27,6 +27,7 @@ Mattress is a material [item](../items.md) that can be used to craft beds.
 </div>  
 </div>  
 </div>
+
 ### Obtaining
 A Mattress can be made by a master Shephard Villager if a [Mattress Materials](../items/mattress_materials.md) item is next to it. When the item is in close proximity to the Villager, the Villager will consume the item, pause and drop a Mattress after a few seconds.
 

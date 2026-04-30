@@ -4,7 +4,7 @@
 | [Beginner Guide](beginner_guide.md) | [Blocks](blocks.md) | [Bosses](bosses.md) | [Structures](structures.md)             | **Configuration**                     |
 
 # Configuration
-You can change the datapack's SETTINGS by using the scoreboard commands on below.
+You can change the datapack's settings by using the scoreboard commands on below.
 > Just go to your world and enter one of these command in the chat to change the settings. 
 > (You need to have cheats enabled to use commands.)
 
@@ -12,7 +12,8 @@ Each setting uses a value. UNLESS SPECIFIED otherwise, the only allowed values a
 - 0 = FEATURE DISABLED
 - 1 = FEATURE ENABLED
 
-<span style="color:rgb(255, 0, 0)">! WARNING !</span> After changing settings you need to RELOAD the datapack for the changes to take effect!
+<span style="color:rgb(255, 0, 0)">! WARNING !</span> 
+After changing settings you need to RELOAD the datapack for the changes to take effect!
 When the datapack is reloaded, it's active settings can be viewed by clicking the blue text written in chat.
 > Datapacks can be reloaded by using `/reload` command.
 

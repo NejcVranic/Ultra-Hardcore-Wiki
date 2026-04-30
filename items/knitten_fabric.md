@@ -28,6 +28,7 @@ Knitten Fabric is a material [item](../items.md). It's used to craft [bandages](
 </div>  
 </div>
 
+
 ### Obtaining
 It is the reward you get after using the [Knitting Kit](../items/knitting_kit.md).
 

@@ -34,6 +34,7 @@ Flint Hatchet is a tool [item](../items.md) that can be used to break wood.
 
 </div>  
 </div>
+
 ### Obtaining
 The crafting recipe produces 1 Flint Hatchet:
 
@@ -49,7 +50,7 @@ The crafting recipe produces 1 Flint Hatchet:
 </tr>  
 <!-- ROW 2 -->  
 <tr>  
-<td style="border: 1px solid #aaa;">String or tall grass</td>  
+<td style="border: 1px solid #aaa;">String or Tall grass</td>  
 <td style="border: 1px solid #aaa;">Stick</td>
 </tr>
 </table>

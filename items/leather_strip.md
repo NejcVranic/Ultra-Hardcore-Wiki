@@ -27,6 +27,7 @@ Leather Strip is a material [item](../items.md) that can be used in crafting rec
 </div>  
 </div>  
 </div>
+
 ### Obtaining
 The crafting recipe produces 2 Leather Strips:
 

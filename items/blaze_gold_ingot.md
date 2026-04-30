@@ -28,6 +28,7 @@ Blaze Gold Ingot is a material [item](../items.md) that can be used in [forging]
 </div>  
 </div>
 
+
 ### Obtaining
 A Blaze Gold Ingot can be forged:
 <table style="border-collapse: collapse; text-align: center; border: 2px solid #3a3a3a;">  

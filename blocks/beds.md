@@ -1,7 +1,7 @@
 # Beds
 Beds are a vanilla [block](../blocks.md) that can be used to skip the night. Their crafting recipes have been changed.
 
-If a player sleeps in a bed next to a [source of heat](../survival_systems/cold.md), they will gain Regeneration 2 for 8 seconds when they wake up.
+If a player sleeps in a bed next to a [source of heat](frost.md), they will gain Regeneration 2 for 8 seconds when they wake up.
 
 ### Obtaining
 

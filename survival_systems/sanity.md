@@ -19,6 +19,13 @@ The insanity score is increased every by:
 - (passively) being in End dimensions (`+1 insanity`)
 - (passively) standing on withered soil (`+1 insanity`)
 
+You can prevent gaining insanity from standing in the dark by holding ANY lantern item in your hand. 
+Items that prevent darkness from increasing insanity:
+- lantern, 
+- soul lantern, 
+- jack-o-lantern
+- sea lantern
+
 ---
 
 ### Losing insanity

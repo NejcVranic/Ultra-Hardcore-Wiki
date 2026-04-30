@@ -34,6 +34,7 @@ Firestarter Kit is a tool [item](../items.md) that can be used to create fire an
 
 </div>  
 </div>
+
 ### Obtaining
 
 <table style="border-collapse: collapse; text-align: center; border: 2px solid #3a3a3a;">  

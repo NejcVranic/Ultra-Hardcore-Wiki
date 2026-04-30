@@ -27,6 +27,7 @@ Mattress Materials is a material [item](../items.md) that can be used to make a 
 </div>  
 </div>  
 </div>
+
 ### Obtaining
 The crafting recipe produces 1 Mattress Materials:
 

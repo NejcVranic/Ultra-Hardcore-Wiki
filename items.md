@@ -4,13 +4,12 @@
 | [Beginner Guide](beginner_guide.md) | [Blocks](blocks.md) | [Bosses](bosses.md) | [Structures](structures.md)             | [Configuration](configuration.md)     |
 
 # Items 
-Below is a list of all items added or changed by Ultra Hardcore
+Below is a list of all items added or changed by Ultra Hardcore:
 
 ## [Foods](./items/foods.md) 
 - Apple Pie
 - Bat Wing
 - Cactus Soup
-- Choccy Milk
 - Diamond Apple
 - Emerald Apple
 - Glazed Ham
@@ -18,6 +17,7 @@ Below is a list of all items added or changed by Ultra Hardcore
 - Glow Squid Stew
 - Glow Squid Tentacle
 - Goulash
+- Hot cocoa
 - Mango
 - Meat Pie
 - Rabbit Stew
@@ -60,8 +60,8 @@ Below is a list of all items added or changed by Ultra Hardcore
 ## Armor & Tool Tiers
 
 ### [Flint Tier](./material_tiers/flint_tier.md) 
-- [Flint Chisel](./flint_chisel.md) 
-- [Flint Hatchet](./flint_hatchet.md) 
+- [Flint Chisel](./items/flint_chisel.md) 
+- [Flint Hatchet](./items/flint_hatchet.md) 
 
 ### [Copper Tier](./material_tiers/copper_tier.md) 
 - Copper Shield

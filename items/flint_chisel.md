@@ -34,6 +34,7 @@ Flint Chisel is a tool [item](../items.md) that can be used in multiple ways and
 
 </div>  
 </div>
+
 ### Obtaining
 The crafting recipe produces 1 Flint Chisel:
 
@@ -49,7 +50,7 @@ The crafting recipe produces 1 Flint Chisel:
 </tr>  
 <!-- ROW 2 -->  
 <tr>  
-<td style="border: 1px solid #aaa;">String or tall grass</td>  
+<td style="border: 1px solid #aaa;">String or Tall grass</td>  
 <td style="border: 1px solid #aaa;"></td>
 </tr>
 </table>
@@ -57,15 +58,15 @@ The crafting recipe produces 1 Flint Chisel:
 ### Usage
 A chisel can be used on multiple blocks to produce various results:
 
-| Block used on | Result                                                                                        |
-| ------------- | --------------------------------------------------------------------------------------------- |
-| Stone         | 1 in 3 chance to produce a stone button                                                       |
+| Block used on | Result                                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------------ |
+| Stone         | 1 in 3 chance to produce a stone button                                                          |
 | Any log       | 1 in 10 chance to turn the log into an unlit [Chiseled Campfire](../blocks/chiseled_campfire.md) |
-| Coal ore      | 1 in 10 chance to turn the block into stone and produce 1 coal                                |
-| Copper ore    | 1 in 10 chance to turn the block into stone and produce 1 raw copper                          |
-| Iron ore      | 1 in 10 chance to turn the block into stone and produce 1 raw iron                            |
-| Gold ore      | 1 in 10 chance to turn the block into stone and produce 1 raw gold                            |
-| Obsidian      | 1 in 3 chance to produce an Obsidian Powder                                                   |
+| Coal ore      | 1 in 10 chance to turn the block into stone and produce 1 coal                                   |
+| Copper ore    | 1 in 10 chance to turn the block into stone and produce 1 raw copper                             |
+| Iron ore      | 1 in 10 chance to turn the block into stone and produce 1 raw iron                               |
+| Gold ore      | 1 in 10 chance to turn the block into stone and produce 1 raw gold                               |
+| Obsidian      | 1 in 3 chance to produce an Obsidian Powder                                                      |
 
 
 
