@@ -14,7 +14,7 @@ Deepslate Forge is a utility block [block](../blocks.md) that allows the player 
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="../images/deepslate_forge.png" alt="deepslate_forge" width="128" style="image-rendering: pixelated;">  
+<img src="../images/deepslate_forge.png" alt="deepslate_forge" width="300" >  
 </div>  
 
 <!-- BASIC INFO -->  
