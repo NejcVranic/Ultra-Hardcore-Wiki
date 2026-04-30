@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blocks/deepslate_forge.md",
+                "file": "miscellaneous/forges.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "deepslate_forge"
+              "title": "forges"
             }
           }
         ]
@@ -185,11 +185,28 @@
   },
   "active": "7594d83b4d28c78c",
   "lastOpenFiles": [
+    "blocks/nether_forge.md",
+    "blocks/deepslate_forge.md",
     "blocks.md",
+    "mobs.md",
+    "images/nether_forge_example.png",
+    "images/2026-04-30_21.37.09.png",
+    "images/deepslate_forge_example.png",
+    "images/2026-04-30_21.21.15.png",
+    "mobs/nether_golem.md",
+    "mobs/nether_shulker.md",
+    "images/nether_shulker.png",
+    "images/2026-04-30_17.47.04.png",
+    "images/warped_shulker.png",
+    "images/2026-04-30_17.48.04.png",
+    "images/crimson_shulker.png",
+    "images/2026-04-30_17.46.18.png",
+    "mobs/zombie_brute.md",
+    "items/diamond_ingot.md",
+    "blocks/air_blower.md",
+    "blocks/withered_soil.md",
     "items.md",
     "structures.md",
-    "images/deepslate_forge.png",
-    "images/2026-04-30_16.55.47.png",
     "items/hydrating_helmet.md",
     "beginner_guide.md",
     "README.md",
@@ -202,16 +219,6 @@
     "material_tiers/blaze_gold_tier.md",
     "miscellaneous/wither_virus.md",
     "miscellaneous/red_moon.md",
-    "mobs.md",
-    "miscellaneous/forges.md",
-    "miscellaneous/farming.md",
-    "mobs/zombie_brute.md",
-    "items/brute_tear.md",
-    "mobs/nether_shulker.md",
-    "mobs/nether_golem.md",
-    "material_tiers/netherite_tier.md",
-    "material_tiers/diamond_tier.md",
-    "material_tiers/amethyst_tier.md",
-    "material_tiers/steel_tier.md"
+    "miscellaneous/forges.md"
   ]
 }

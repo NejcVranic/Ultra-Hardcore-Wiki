@@ -15,7 +15,7 @@ Nether Forge is a utility [block](../blocks.md) that allows the player to [forge
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/nether_forge.png" alt="nether_forge" width="128" style="image-rendering: pixelated;">  
+<img src="../images/nether_forge.png" alt="nether_forge" width="300">  
 </div>  
 
 <!-- BASIC INFO -->  
@@ -67,6 +67,10 @@ Armor and Tools can be repaired using the forge by
 - inserting the armor or tool in the surface slot,
 - placing an appropriate material in the center cell inside its 3x3 UI,
 - and leaving the other cells empty
+
+<div style="text-align: center; padding: 10px;">  
+<img src="../images/nether_forge_example.png" alt="nether_forge_example" width="300" >  
+</div>  
 
 ### Forging
 Below is a list of items that can be forged in the Nether Forge:

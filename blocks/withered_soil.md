@@ -16,7 +16,7 @@ Withered Soil is a spreading [block](../blocks.md) that infects nearby terrain a
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/withered_soil.png" alt="withered_soil" width="128" style="image-rendering: pixelated;">  
+<img src="../images/withered_soil.png" alt="withered_soil" width="300">  
 </div>  
 
 <!-- BASIC INFO -->  

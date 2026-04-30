@@ -13,7 +13,7 @@ Air Blower is a [block](../blocks.md) that can be used to power the [Nether Forg
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
-<img src="images/air_blower.png" alt="air_blower" width="128" style="image-rendering: pixelated;">  
+<img src="../images/air_blower.png" alt="air_blower" width="300">  
 </div>  
 
 <!-- BASIC INFO -->  

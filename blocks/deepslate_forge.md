@@ -67,6 +67,10 @@ Armor and Tools can be repaired using the forge by
 - placing an appropriate material in the center cell inside its 3x3 UI,
 - and leaving the other cells empty
 
+<div style="text-align: center; padding: 10px;">  
+<img src="../images/deepslate_forge_example.png" alt="deepslate_forge_example" width="300" >  
+</div>  
+
 ### Forging
 Below is a list of items that can be forged in the Deepslate Forge:
 - [Steel Ingot](../items/steel_ingot.md) 
