@@ -53,13 +53,14 @@ The main reason why it's recommended to create a new world is to prevent village
 ---
 
 ## WORK IN PROGRESS
-### WIKI TODO
-- images for mobs and blocks
-- mob enhancements
-- more accurate mob drops
-- screenshots
 
-### Planned datapack updates:
+### Current bugs (V1.1)
+- white carpet doesn't drop item when broken
+- trapdoor doesn't drop item when broken
+- firestarter kit sometimes does't work if not aimed at center of block
+
+
+### Planned updates:
 An update to 1.20.5 is planned and might eventually come out, but I am currently not working on it. Due to the extent of changes to commands between 1.20.4 and 1.20.5 It will require an almost complete rewrite of the whole datapack to update.
 
 Planned changes (might never be implemented):
@@ -78,3 +79,13 @@ Planned changes (might never be implemented):
 - tomato plant + foods: tomato soup, burger, ketchup, pasta, fish stew
 - ritual circle for setting a red moon
 - item: enchantment upgrade rune
+
+### Wiki TODO
+- mob enhancements
+- more accurate mob drops
+
+
+### Devlog
+
+Version 1.1
+- chisel can be used on iron ore

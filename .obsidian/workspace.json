@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "miscellaneous/forges.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "forges"
+              "title": "README"
             }
           }
         ]
@@ -185,9 +185,10 @@
   },
   "active": "7594d83b4d28c78c",
   "lastOpenFiles": [
-    "blocks/nether_forge.md",
-    "blocks/deepslate_forge.md",
     "blocks.md",
+    "blocks/deepslate_forge.md",
+    "miscellaneous/forges.md",
+    "blocks/nether_forge.md",
     "mobs.md",
     "images/nether_forge_example.png",
     "images/2026-04-30_21.37.09.png",
@@ -218,7 +219,6 @@
     "material_tiers/flint_tier.md",
     "material_tiers/blaze_gold_tier.md",
     "miscellaneous/wither_virus.md",
-    "miscellaneous/red_moon.md",
-    "miscellaneous/forges.md"
+    "miscellaneous/red_moon.md"
   ]
 }
