@@ -54,10 +54,9 @@ The main reason why it's recommended to create a new world is to prevent village
 
 ## WORK IN PROGRESS
 
-### Current bugs (V1.1)
+### Current bugs (V1.2)
 - white carpet doesn't drop item when broken
-- trapdoor doesn't drop item when broken
-- firestarter kit sometimes does't work if not aimed at center of block
+- firestarter kit sometimes doesn't work if not aimed at center of block
 
 
 ### Planned updates:
@@ -86,6 +85,9 @@ Planned changes (might never be implemented):
 
 
 ### Devlog
+Version 1.2
+- chiseled campfire only drops charcoal if lit when broken
+- lit torch no longer drops extra torches when broken
 
 Version 1.1
 - chisel can be used on iron ore

@@ -185,6 +185,8 @@
   },
   "active": "7594d83b4d28c78c",
   "lastOpenFiles": [
+    "beginner_guide.md",
+    "README.md",
     "blocks.md",
     "blocks/deepslate_forge.md",
     "miscellaneous/forges.md",
@@ -209,8 +211,6 @@
     "items.md",
     "structures.md",
     "items/hydrating_helmet.md",
-    "beginner_guide.md",
-    "README.md",
     "survival_systems/frost.md",
     "blocks/chiseled_campfire.md",
     "items/leather_strip.md",
