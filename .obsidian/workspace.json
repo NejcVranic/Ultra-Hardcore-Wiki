@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "survival_systems/sanity.md",
+                "file": "survival_systems/health_scaling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sanity"
+              "title": "health_scaling"
             }
           }
         ]
@@ -186,6 +186,8 @@
   "active": "7594d83b4d28c78c",
   "lastOpenFiles": [
     "survival_systems.md",
+    "README.md",
+    "survival_systems/sanity.md",
     "beginner_guide.md",
     "blocks.md",
     "blocks/deepslate_forge.md",
@@ -201,13 +203,11 @@
     "material_tiers/copper_tier.md",
     "material_tiers/flint_tier.md",
     "items.md",
-    "survival_systems/sanity.md",
     "vanilla_changes.md",
     "items/hydrating_helmet.md",
     "material_tiers/netherite_tier.md",
     "items/flint_hatchet.md",
     "structures.md",
-    "README.md",
     "configuration.md",
     "blocks/poor_farmland.md",
     "images/poor_farmland.png",

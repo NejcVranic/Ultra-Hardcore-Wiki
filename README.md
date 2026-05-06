@@ -86,6 +86,7 @@ Planned changes (might never be implemented):
 
 ### Devlog
 Version 1.3
+- Max HP scales slightly faster with experience
 - fixed steel tool repair in deepslate & nether forge
 - white carpet drops (previously dropped nothing)
 - added settings to hide custom recipes (remove knowledge books in crafting hints)
