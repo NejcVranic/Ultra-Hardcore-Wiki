@@ -41,6 +41,7 @@ Hydrating Helmet is an armor [item](../items.md) that passively increases the pl
 
 </div>  
 </div>
+
 ### Obtaining
 The crafting recipe produces 1 Hydrating Helmet:
 
@@ -67,7 +68,7 @@ The crafting recipe produces 1 Hydrating Helmet:
 ### Usage
 While the base Hydrating Helmet does not offer strong protection, it can be combined with other helmets to give them its effects.
 
-A Hydrating version of the Turtle, Golden, Blaze Gold, Steel, Diamond and Netherite Helmets can be made by cropping the helmet and Hydrating Helmet items on top of a Smithing Table.
+A Hydrating version of the Turtle, Golden, Blaze Gold, Steel, Diamond and Netherite Helmets can be made by dropping the helmet and Hydrating Helmet items on top of a Smithing Table.
 Doing so will play a sound and particles, consume the Hydrating Helmet, change the name and appearance of the helmet to its Hydrating version and give it the same hydrating properties described above.
 
 The hydrating helmets retain their previous armor points, armor tougness and enchantments. 

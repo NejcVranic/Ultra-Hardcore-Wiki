@@ -36,17 +36,17 @@ You can get the **datapack** on **modrinth**: https://modrinth.com/project/ultra
 ### Option 1 (RECOMMENDED): Creating a new world with the datapack installed
 Follow the steps below to enable the datapack during world creation
 1. Click create new world
-2. Click options
-3. Click datapacks
-4. Click "open datapack folder"
-5. Drag the datapack zip file in the opened folder (Inside the game the datapack will show one the right side)
+2. Click "More"
+3. Click "Datapacks"
+4. Click "Open Pack Folder"
+5. Drag/copy the datapack zip file in the opened folder (Inside the game the datapack will show one the right side)
 6. Create world 
 
 The main reason why it's recommended to create a new world is to prevent villages from loading and to prevent skipping the expanded early game progression.
 
 ### Option 2: Adding to an existing world
 1. Open your world's datapacks folder
-2. drag the datapack zip file in the opened folder
+2. Drag/copy the datapack zip file in the opened folder
 3. In game type `/reload`
 
 

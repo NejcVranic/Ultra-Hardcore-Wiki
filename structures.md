@@ -33,7 +33,7 @@ Uncommon loot:
 - melon seeds
 - pumpkin seeds
 - moss block
-- stone sword
+- iron sword
 - goat horn
 
 Rare loot:

@@ -11,86 +11,101 @@
 
 > This guide assumes basic knowledge of Vanilla Minecraft.
 
-> Keep in mind the guide isn't required or intended to be followed in a strict linear sequence.
+> While this guide is very beginner friendly and informative, it won't tell you everything about this datapack.
 
 ---
 
 ## Surviving the first night
 Basically, you're fucked.
 
-You can't make a crafting table, can't craft any standard tools, can't easily mine dirt for building blocks and you can't even punch wooden logs without dying. Welcome to Ultra Hardcore :)
+Uh... you might have noticed you're missing a few hearts. Don't panic that's normal. Most people only have one heart, but you can get more by gaining experience. You can't make a crafting table, can't craft any standard tools, can't easily mine dirt for building blocks and you can't even punch wooden logs without dying. Welcome to Ultra Hardcore :)
 > Technically you can break wooden logs with your fists and respawn after each block, but this isn't really in the spirit of the game and it isn't possible at all in hardcore mode.
 
-If you want to survive the first night you need to obtain a campfire and build a small shelter to get away from the mobs. Hydration isn't so important yet, but you need to start progressing towards a bottle of water. If you don't get a campfire, find fire or lava, you will freeze to death at night. Although you don't need to worry about hydration right now, you should avoid sprinting to prevent faster hydration loss - this will give you time (and you're gonna need the time) to make a bottle.
+Some friendly advice: don't stand in the dark, stay away from spiders & creepers and don't waste any time! If you find any structure it will be a lot of help. 
+> The houses are honestly a bit op. I won't do anything about them, but I will silently judge you if you use them `-_-`
 
-To prevent freezing at night you need to make a campfire. For that you need a flint chisel. To make a flint chisel you need flint, a stick and some tall grass, a string or a leather strip. (You're gonna want to save up on sticks.)
-So- 
+If you don't get a campfire, find fire or lava, you will freeze to death at night. Because the night is freezing cold, obtaining a campfire is your first priority. Hydration isn't so important yet, but you need focus on progressing towards a bottle of water, otherwise you will die from dehydration on the 3rd day. Although you don't need to worry about hydration right now, you should avoid sprinting to prevent faster hydration loss, otherwise you'll run out of time to make a water bottle.
+
+To prevent freezing at night you need to make a campfire. For that you need a flint chisel. To make a flint chisel you need flint + stick + some tall grass, string or a leather strip. So- 
 - find gravel. Not only is it required for flint (tools), it's also one of the few blocks you can mine and build with (and it can be used to suffocate entities...)  
 - collect sticks by punching leaves (you can also craft sticks from saplings)
 - find tall grass, string or leather
-	- Tall grass is abundant in the plains biome and is sometimes dropped when broken (even by hand). If you don't find it you'll have to find string or leather to use in the recipe instead
+	- Tall grass is abundant in the plains and savanna biomes and is sometimes dropped when broken (even by hand). If you don't find it you'll have to find string or leather to use in the recipe instead
 	- You can find string in some loot chests, by killing spiders or by mining cobwebs - none of which are realistic options
-	- Lastly you can get leather by killing cows, donkeys or horses... but i don't recommend trying it. When you attack them they kick you back and it will hurt. Instead try catching them in a hole and suffocate the animal with gravel or sand. You can then craft leather strips using 1 leather and 1 flint.
+	- Lastly you can get leather by killing cows, donkeys or horses... but i don't recommend trying it. When you attack them they kick you back and it will hurt. Instead try catching them in a hole and suffocate the animal with gravel or sand. With 1 leather + 1 flint you can craft leather strips and use them instead of string.
 
-Now you have a flint chisel! Find a location with a log where you can build a shelter. You need the log to make a campfire. You can use a chisel to turn a log into a chiseled campfire by holding right click (the chance is random, but it will work eventually). To save on sticks, it's best to light the campfire just before nightfall. 
-You can light the campfire using a firestarter kit, which you can craft from 2 sticks. The fire will go out every 3 minutes but you can reset the time by adding a stick to the campfire.
+Now you have a flint chisel! You should also make a flint hatchet because it gives you a faster way to get sticks. Use the chisel on stone and make cobblestone from 4 stone buttons. Craft a flint hatchet and chop down 1 or 2 trees. 
 
-You should probably hide from the mobs until morning. You can spend the time converting gravel to flint and making knitten fabric if you have extra sticks and got any wool.
+You need at minimum 5 sticks to survive the night: 2 sticks to make a firestarter kit and light a campfire + 3 sticks to stoke the campfire. You can combine the buttons into planks and turn the planks into sticks. You can also turn sapling into sticks if you run out. 
+> The firestarter kit can be a bit buggy, try to aim at the center of the campfire.
+
+To make a campfire you need a log. Find a location with a log where you can build a shelter and can use the chisel to turn a log into a chiseled campfire (hold right click. The chance is random, but it will work eventually.) To save on sticks, it's best to light the campfire just before nightfall. The campfire will go out every 3 minutes, but you can reset the time by adding a stick to the campfire.
+
+You should also make as much progress as possible towards obtaining bottles. You'll need 16 clay balls and 1 iron ore, so look out for them. You can mine the clay by hand, but you need a chisel to dig out the raw iron.
+
+During the night, you can spend the time making knitten fabric (if you have extra sticks and got any wool) and smelting clay balls into bricks, which you will need to make a furnace.
+
+---
+
+## Second night
+If you've survived the first night, congratulations! Unfortunately, things only get worse now. 
+
+You're gonna start running out of hydration very soon, so your goal for today is to obtain a furnace and crafting table. You'll need both to make water bottles and regain hydration. You can eat apples and watermelon to regain a little hydration, but they only buy you a few minutes of time. 
+
+You need to find 1 leather, 1 iron ore, get 16 bricks to craft a furnace and 2 planks for the crafting table recipe.
+
+Craft the bricks into brick blocks and craft a furnace from the 4 brick blocks.
+
+To make a crafting table you need 2 planks + 1 leather + 1 iron ingot OR iron chisel. Since a furnace is only powerful enough to smelt raw iron ingot nuggets (not ingots) you'll need to make an iron chisel and use it to make the crafting table. You can make an iron chisel with 1 iron nugget + 1 stick + 1 tall grass or string or leather strip.
+
+Now make glass, turn it into glass bottles and fill them with water. Before drinking they need to be made safe to drink by boiling them on a campfire until they start bubbling.
 
 ---
 
 ## Early game
-If you've survived the first night, congratulations! Unfortunately, things only get worse now. You're gonna start running out of hydration and food soon, monsters are hiding behind corners and collecting sticks for the campfire isn't exactly the pinnacle of technology. 
+The best (safest) way to gain experience in the early game is by killing animals, fishing and using a furnace. You can run around finding and killing pigs, chickens and sheep. You can also start killing cows by one-shotting them with a critical hit from any axe (not the flint hatchet).
 
-In short, you can regain some hydration by eating fruit and stews, but it's not a real solution to the problem. You need to get bottles of water and it starts by making a furnace. You can find more info in the 'Hydration' section of the guide below.
+If you want to explore the world at night and not be forced to hang around campfires and other light sources, you'll have to progress towards obtaining (any) lantern, which prevents you from gaining insanity if you stand in the dark. Alternatively you can just continually lower your insanity instead by being near horses, tamed wolves, etc.
 
 You should try to collect and eating as many different food items as you can to avoid effects of malnourishment. You can easily catch rabbits by making a snare trap and putting it in the forest floor.
 
-And uh... you might have noticed you're missing a few hearts. Don't panic that's normal. Most people only have one heart, but you can get more by gaining experience.
-The best (safest) way to gain experience in the early game is by killing animals and using a furnace. You can run around finding and killing pigs, chickens and sheep. You can also start killing cows by one-shotting them with a critical hit from any axe (not the flint hatchet). But, the best way to gain experience, is by killing Cod and Salmon that respawn in rivers and oceans... as long as you stay away from squids.
+You're probably gonna be dealing with a lot of inventory management problems by this point. You can craft a chest, but you'll first need to get a tripwire hook. You can get it from fishing (you can craft fishing rods now) or by progressing to the iron age.
 
-When you get tired of collecting sticks from leaves you can enter the flint age by making a flint hatchet. To make it, you also need cobblestone, which you can't mine, but you can craft with 4 stone buttons. You can get stone buttons by using a chisel on a stone block.
-
-With a flint hatchet you can cut tree logs. Instead of breaking the leaves yourself, you can let them decay. Breaking logs using a hatchet only gives you wooden buttons but you can craft them into planks.
-
-If you want better tools you're gonna have to start progressing through the material ages... but before you can craft any better tools you need to get a crafting table.
-
-To make a crafting table you need 2 planks + 1 leather + 1 iron ingot, iron chisel. Your best option is making an iron chisel, then using it to craft the crafting table. You can make an iron chisel with 1 iron nugget + 1 stick + 1 tall grass or string or leather strip.
-
-You can also craft leather armor which will also keep you warm during the night. You only need 1 piece of leather armor. 
+If you want better tools you're gonna have to start progressing through the material ages. Start by getting copper using a chisel and make copper tools. You can use the pickaxe to mine ore (which will reveal more ore blocks). The axe is very useful because it can one-shot cows with a critical hit. You should collect their leather to make leather armor, so you don't freeze at night anymore. The copper shield will be extremely useful for cave exploration.
 > BTW you are also protected from the cold anytime you wear 4 pieces of any armor (can be mixed).
 
-After collecting copper with your chisel you can smelt it into ingots and craft copper tools. The shield will be very useful for cave exploration.
+Since you gain insanity by standing in the dark you'll need torches to explore caves. Unfortunately they now have a limited burn time and need to be lit on any source of flame (fire block / lava / other torches). (You can make regular torches that go out by using netherrack instead of coal in the recipe.) The unlit and lit torches have a durability bar that reflects the burn time they have left. After 5 minutes of existing as a block the block will break.
 
-You're probably gonna be dealing with a lot of inventory management problems by this point. You can craft a chest, but you'll first need to get a tripwire hook. You can get it from fishing (you can craft fishing rods now) or by progressing to the iron age.
+Um.. at some point phantoms will begin to spawn. They increase your insanity so you either need to escape to the underground or find way to lower insanity. (Your best option is being near horses and tamed wolves.)
+
+To make iron gear you need iron ingots, but your furnace makes iron nuggets. You should invest into making a blasting furnace because it smelts raw iron into iron ingots. (It is definitely worth it, because you'll need a lot of iron ingots.) BTW you can't make iron armor, but you can make chainmail armor instead.
+
+So now you need to go mining for iron. Unfortunately your shitty copper pickaxe can't break stone, so you're forced to explore caves instead of strip mining in your safe tunnels. Bummer :/ sorry, really wish I could help you but I have no control over what the developer puts in the datapack. 
+> Actually I do, I'm the developer, I just want you to suffer.
+
+To make steel gear you need a deepslate forge, but you can't mine the deepslate which is required in the recipe. You have 3 options: TNT, creeper explosion or an amethyst pickaxe. Then you can make the deepslate forge and use it to make steel armor and tools. With steel (and amethyst) tools you can finally mine all types of stone.
 
 ---
 
 ## Mid-game
-With copper tools you can mine full ore blocks, but you can't mine stone yet. You'll be forced to explore caves, which means you'll definitely need some light and protection.
-You can't craft any decent armor, but you can make a copper shield to protect yourself. You might notice the vanilla recipe for torches gives you a single unlit torch instead. You'll have to light it on some source of fire (fire block / lava / other torches). The unlit and lit torches have a durability bar that reflects the burn time they have left. After 5 minutes of existing as a block the block will break.
+You can start farming crops but the farmland will be poor. This poor farmland will suffocate your crops, so they grow slower. However, weeds will grow very well, so you'll need to remove them with gardening shears every now and then or the crop is destroyed. You can turn poor farmland into rich (regular) farmland by dropping bone meal on top (if there are no weeds growing on the block)
 
 You'll want to eventually make a bed. Making beds has become significantly more difficult, because mattresses are required in their crafting recipes. A mattress can only be made by giving mattress materials to a shepherd villager, and the only way to get a villager is by curing a zombie villager. You'll have to go to the nether and get potions first.
 
-For better armor and tools continue progressing to the next material ages (iron and steel - more info is lower down on this page).
+The better materials can only be obtained after going to the nether. Hydration depletes very quickly there so it's almost necessary to bring multiple canteens with you. You should strongly consider getting a hydrating helmet before you enter. With a hydrating helmet you'll never have to worry about hydration again.
 
-The better materials can only be obtained after going to the nether. Hydration depletes very quickly there so it's almost necessary to bring multiple canteens with you and you should strongly consider getting a hydrating helmet before you enter. With a hydrating helmet you'll never have to worry about hydration again.
+If you decide to get a hydrating helmet you'll have to raid an ocean monument for the wet sponge required. This should be a "fun" (big) challenge with only steel gear available to you. You can now find ocean monument maps in shipwreck chests (~60%).
 
-If you decide to get a hydrating helmet you'll have to raid an ocean monument for the wet sponge required. This should be a "fun" (big) challenge with only steel gear available to you. 
-
-You'll have to make the portal using water and lava buckets. Collect blaze rods, nether wart, netherrack and some blackstone. 
-You can make permanent (vanilla) torches from sticks and netherrack.
-You can then make a nether forge which opens the door for blaze gold, diamond and netherite gear.
-
+You'll have to make the portal using water and lava buckets. Collect blaze rods, nether wart, netherrack and some blackstone. You can then make a nether forge which opens the door for blaze gold, diamond and netherite gear. You can also make permanent (vanilla) torches from sticks and netherrack.
 
 ---
 
 ## Farming
 When you till dirt into farmland using a hoe, you will create poor farmland instead of the regular Vanilla farmland. Crops will grow slower on poor farmland and weeds will appear. You will need to remove the weeds using gardening shears, otherwise your farmland will be turned into a grass block.
 
-Hoes enchanted with fortune can create regular farmland. Until you have access to them you can also drop a bone meal on top, which will turn the poor soil into regular soil. The easiest way to get a fortune enchanted hoe is by crafting an amethyst hoe.
+Hoes enchanted with fortune can create regular farmland. Until you have access to them you can also drop a bone meal on top, which will turn the poor soil into regular soil. The easiest way to get a fortune enchanted hoe is by crafting an amethyst hoe. Hoes enchanted with fortune 3 always produce regular vanilla farmland.
 
-For every crop of the same type growing on na adjacent block the crop will grow slower (they "compete for nutrients"). This can even result in crops not growing at all. Because of this it is recommended to plant the same crops in a checkerboard patter. 
+For every crop of the same type growing on an adjacent block the crop will grow slower (they same crops "compete for nutrients"). This can even result in crops not growing at all. Because of this it is recommended to plant the same crops in a checkerboard patter. 
 > Note that this is a mechanic exclusive to poor farmland. Vanilla farmland doesn't have this limitation.
 
 ---
@@ -196,7 +211,7 @@ With the iron pickaxe you can finally mine stone, however it still can't mine de
 
 You can finally make some armor by crafting chains and chainmail armor.
 
-You can also make a fertilizer can which makes farming easier.
+You can also make a canteen which is much more convenient than carrying around multiple water bottles.
 
 To unlock the steel tier you mist first craft a deepslate forge, which requires deepslate. Since you can't mine it, you'll have to blow it up with TNT or creepers, or find an amethyst geode and mine the deepslate with an amethyst pickaxe.
 

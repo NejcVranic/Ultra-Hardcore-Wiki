@@ -64,7 +64,7 @@ A forge block can be used to forge new items when the following conditions are m
 
 Armor and Tools can be repaired using the forge by
 - inserting the armor or tool in the surface slot,
-- placing an appropriate material in the center cell inside its 3x3 UI,
+- placing an appropriate material in any cell inside its 3x3 UI,
 - and leaving the other cells empty
 
 <div style="text-align: center; padding: 10px;">  
@@ -74,14 +74,6 @@ Armor and Tools can be repaired using the forge by
 ### Forging
 Below is a list of items that can be forged in the Deepslate Forge:
 - [Steel Ingot](../items/steel_ingot.md) 
-- Steel Boots
-- Steel Chestplate
-- Steel Leggings 
-- Steel Helmet
-- Steel Axe
-- Steel Pickaxe
-- Steel Shovel
-- Steel Sword
-- Steel Hoe
+- [Steel armor and tools](../material_tiers/steel_tier.md) 
 
 

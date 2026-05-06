@@ -132,6 +132,9 @@ Chance for rabbit jockey to spawn instead of husk
 
 
 ### Other
+HIDE KNOWLEDGE BOOK RECIPES: Hide the custom recipes which use a knowledge book as a placeholder item (may be inconvenient if disabled since you can't tell what item it will craft anyway) 
+- command: `/scoreboard players set hide_knowledge_book_recipes UH_player_settings <VALUE>`
+
 WITHERED SOIL: Withered soil spreads from neighboring blocks and players who have been infected with wither effect
 - command: `/scoreboard players set withered_soil UH_player_settings <VALUE>`
 

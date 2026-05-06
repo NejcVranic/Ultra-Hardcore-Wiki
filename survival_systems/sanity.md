@@ -10,11 +10,11 @@ Every condition that passively increases or decreases insanity is checked in a l
 ---
 
 ### Gaining insanity
-The insanity score is increased every by:
+The insanity score is increased by:
 - Getting hurt (`+2 insanity`)
 - Losing experience levels (`+10 insanity`)
 - (passively) standing in the dark for more than 5 seconds (Note: this isn't always reliable because there is no reliable way to detect light levels in Vanilla Minecraft.) (`+1 insanity`)
-- (passively) being in proximity of Phantoms (`+1 insanity`)
+- (passively) being within 20 blocks of a Phantom (`+1 insanity`)
 - (passively) being below Y=0 (`+1 insanity`)
 - (passively) being in End dimensions (`+1 insanity`)
 - (passively) standing on withered soil (`+1 insanity`)
@@ -29,10 +29,10 @@ Items that prevent darkness from increasing insanity:
 ---
 
 ### Losing insanity
-The insanity is decreased by:
+Insanity is decreased by:
 - (passively) having the regeneration effect (`-1 insanity`)
 - (passively) having the glowing effect (`-1 insanity`)
-- (passively) being in proximity of 
+- (passively) being withing 16 blocks of
 	- Tamed Wolf (`-1 insanity for each`)
 	- Horse (`-1 insanity for each`)
 	- Tamed Cat (`-1 insanity for each`)

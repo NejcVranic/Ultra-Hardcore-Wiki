@@ -18,52 +18,21 @@ A forge block can be used to forge new items when the following conditions are m
 
 Armor and Tools can be repaired using the forge by
 - inserting the armor or tool in the surface slot,
-- placing an appropriate material in the top left or middle cell inside its 3x3 UI,
+- placing an appropriate material in any cell inside its 3x3 UI,
 - and leaving the other cells empty
 
 While a forge is being used to forge new items or repair existing items it is considered active and will remain active for a few seconds until the process is complete, after which a sound is played.
 
 ### Forging
 Below is a list of items that can be forged in the Deepslate Forge and Nether Forge:
-- Steel Ingot
-- Steel Boots
-- Steel Chestplate
-- Steel Leggings 
-- Steel Helmet
-- Steel Axe
-- Steel Pickaxe
-- Steel Shovel
-- Steel Sword
-- Steel Hoe
+- [Steel Ingot](../items/steel_ingot.md) 
+- [Steel armor and tools](../material_tiers/steel_tier.md) 
 
 Below is a list of items that can only be forged in the Nether Forge:
 - [Blaze Gold Ingot](../items/blaze_gold_ingot.md) 
 - [Diamond Ingot](../items/diamond_ingot.md) 
 - [Netherite Ingot](../items/netherite_ingot.md) 
-- Blaze Gold Boots
-- Blaze Gold Chestplate
-- Blaze Gold Leggings 
-- Blaze Gold Helmet
-- Blaze Gold Axe
-- Blaze Gold Pickaxe
-- Blaze Gold Shovel
-- Blaze Gold Sword
-- Blaze Gold Hoe
-- Diamond Boots
-- Diamond Chestplate
-- Diamond Leggings 
-- Diamond Helmet
-- Diamond Axe
-- Diamond Pickaxe
-- Diamond Shovel
-- Diamond Sword
-- Diamond Hoe
-- Netherite Boots
-- Netherite Chestplate
-- Netherite Leggings 
-- Netherite Helmet
-- Netherite Axe
-- Netherite Pickaxe
-- Netherite Shovel
-- Netherite Sword
-- Netherite Hoe
+- [Blaze Gold armor and tools](../material_tiers/blaze_gold_tier.md) 
+- [Diamond armor and tools](../material_tiers/diamond_tier.md) 
+- [Netherite armor and tools](../material_tiers/netherite_tier.md) 
+- [Ancient Debris](./items/ancient_debris.md) 

@@ -29,7 +29,7 @@ Flint Hatchet is a tool [item](../items.md) that can be used to break wood.
 <!-- DIVIDER & INFO -->  
 <hr style="margin: 2px 0; border: 0; border-top: 1px solid #aaa;">  
 <div style="padding: 4px 8px; font-size: 14px;">  
-<strong>Durability:</strong> 10<br>
+<strong>Durability:</strong> 32<br>
 </div>  
 
 </div>  

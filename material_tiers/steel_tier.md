@@ -3,7 +3,7 @@ Steel tier is a [material tier](../material_tiers/list.md), that refers to the c
 It is stronger than [Iron Tier](../material_tiers/iron_tier.md) and weaker than [Blaze Gold Tier](../material_tiers/blaze_gold_tier.md). It is the same strength as [Amethyst Tier](../material_tiers/amethyst_tier.md).
 > The steel armor & tools in Ultra Hardcore are actually retextured iron armor & tools.
 
-The items can only be obtained by [forging](../miscellaneous/forges.md) them in the [Deepslate Forge](../blocks/deepslate_forge,md) or [Nether Forge](../blocks/nether_forge.md).
+The items can only be obtained by [forging](../miscellaneous/forges.md) them in the [Deepslate Forge](../blocks/deepslate_forge.md) or [Nether Forge](../blocks/nether_forge.md).
 
 The items can also be repaired in a forge by placing them in the surface slot and putting a Steel Ingot inside the forge.
 
