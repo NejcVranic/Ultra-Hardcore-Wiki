@@ -1,14 +1,14 @@
-# Nether Core
-Nether Core is a material [item](../items.md) that can be used to [forge](../miscellaneous/forges) [Ancient Debris](../items/ancient_debris.md).
+# Heart of the Nether
+Heart of the Nether is a material [item](../items.md) that can be used to [forge](../miscellaneous/forges) [ancient debris](../items/ancient_debris.md).
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
-<p>Nether Core can be used inside a powered Forge to forge Netherite Ingots.</p>
+<p>Heart of the Nether can be used inside a powered Forge to forge Netherite Ingots.</p>
 </div>  
 	
 <div style="width: 250px; border: 2px solid #3a3a3a; font-family: sans-serif;">  
 <!-- TITLE -->  
-<div style="background-color: #3a3a3a; color: white; padding: 6px; font-weight: bold; text-align: center;">Nether Core</div>  
+<div style="background-color: #3a3a3a; color: white; padding: 6px; font-weight: bold; text-align: center;">Heart of the Nether</div>  
 
 <!-- IMAGE -->  
 <div style="text-align: center; padding: 10px;">  
@@ -29,7 +29,7 @@ Nether Core is a material [item](../items.md) that can be used to [forge](../mis
 </div>
 
 ### Obtaining
-Nether Golems can drop a Nether Core on death.
+Nether Golems can drop a it on death.
 
-Nether Cores can be found in loot chest inside Bastions.
+It can be found in loot chest inside Bastions.
 

@@ -6,7 +6,7 @@ It is stronger than [Flint Tier](../material_tiers/flint_tier.md) and weaker tha
 
 The datapack adds the standard set of tools and the Copper shield.
 
-The durability of all copper tools is 50, except for Gardenind shears which have 64 durability.
+The durability of all copper tools is 64.
 
 The Copper Pickaxe cannot be used to mine stone, andesite, granite, diorite, deepslate and deepslate ores.
 

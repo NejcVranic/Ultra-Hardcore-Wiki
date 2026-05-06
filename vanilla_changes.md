@@ -25,6 +25,8 @@ Changed recipes:
 - [Loom](./blocks/loom.md) 
 - [Torch](./items/torch.md) (Vanilla Torch recipe now crafts [Unlit Torch](./items/unlit_torch.md))
 - Smelting raw iron in a furnace produces an iron nugget (but when using a blasting furnace you still get an iron ingot)
+- Trapdoors are now made with 4 planks instead of 6
+- Chains recipe now gives 2 chains instead of 1
 
 Added recipes:
 - Dirt, crafted from 4 brown dye

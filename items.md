@@ -32,7 +32,7 @@ Below is a list of all items added or changed by Ultra Hardcore:
 - [Leather Strip](./items/leather_strip.md) 
 - [Mattress Materials](./items/mattress_materials.md) 
 - [Mattress](./items/mattress.md) 
-- [Nether Core](./items/nether_core.md) 
+- [Heart of the Nether](./items/heart_of_the_nether.md) 
 - [Netherite Ingot](./items/netherite_ingot.md) 
 - [Obsidian Powder](./items/obsidian_powder.md) 
 - [Pig Iron](./items/pig_iron.md) 

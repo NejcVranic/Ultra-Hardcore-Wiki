@@ -54,8 +54,8 @@ The main reason why it's recommended to create a new world is to prevent village
 
 ## WORK IN PROGRESS
 
-### Current bugs (V1.2)
-- white carpet doesn't drop item when broken
+### Current bugs (V1.3)
+- squids can latch onto the player through blocks (example: frozen lake surface)
 - firestarter kit sometimes doesn't work if not aimed at center of block
 
 
@@ -85,6 +85,15 @@ Planned changes (might never be implemented):
 
 
 ### Devlog
+Version 1.3
+- fixed steel tool repair in deepslate & nether forge
+- white carpet drops (previously dropped nothing)
+- added settings to hide custom recipes (remove knowledge books in crafting hints)
+- fixed pig iron crafting recipe (previously it could be crafted only once)
+- renamed nether core to heart of the nether
+- all copper tools have 64 durability
+- fixed flint hatchet durability (previously 59)
+
 Version 1.2
 - chiseled campfire only drops charcoal if lit when broken
 - lit torch no longer drops extra torches when broken

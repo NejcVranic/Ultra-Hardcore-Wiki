@@ -1,5 +1,5 @@
 # Ancient Debris
-Ancient Debris are a Vanilla [block](../blocks.md). They can be forged inside a [Forge](../miscellaneous/forges.md).
+Ancient Debris are a Vanilla [block](../blocks.md). They can be forged inside a [Forge](../miscellaneous/forges.md) with netherrack and [Heart of the Nether](../items/heart_of_the_nether).
 
 
 <table style="border-collapse: collapse; text-align: center; border: 2px solid #3a3a3a;">  
@@ -10,19 +10,19 @@ Ancient Debris are a Vanilla [block](../blocks.md). They can be forged inside a 
 <!-- ROW 1 -->  
 <tr>  
 <td style="border: 1px solid #aaa;"></td>  
-<td style="border: 1px solid #aaa;">Nether Core</td>  
+<td style="border: 1px solid #aaa;">Heart of the Nether</td>  
 <td style="border: 1px solid #aaa;"></td>  
 </tr>  
 <!-- ROW 2 -->  
 <tr>  
-<td style="border: 1px solid #aaa;">Nether Core</td>  
+<td style="border: 1px solid #aaa;">Heart of the Nether</td>  
 <td style="border: 1px solid #aaa;">Netherrack</td>  
-<td style="border: 1px solid #aaa;">Nether Core</td>  
+<td style="border: 1px solid #aaa;">Heart of the Nether</td>  
 </tr>  
 <!-- ROW 3 -->  
 <tr>  
 <td style="border: 1px solid #aaa;"></td>  
-<td style="border: 1px solid #aaa;">Nether Core</td>  
+<td style="border: 1px solid #aaa;">Heart of the Nether</td>  
 <td style="border: 1px solid #aaa;"></td>  
 </tr>  
 </table>
