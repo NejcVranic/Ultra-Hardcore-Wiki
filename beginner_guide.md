@@ -237,7 +237,7 @@ Diamond gear looses the ability of auto-regeneration and doesn't provide fire re
 To upgrade to netherite you need netherite ingots and the netherite upgrade template, which can only be found in nether loot chests.
 
 ### Netherite age
-Congrats it you make it.
+Use netherite ingots and netherite upgrade template to upgrade diamond gear in the nether forge.
 
 ---
 

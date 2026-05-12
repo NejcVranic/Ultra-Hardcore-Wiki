@@ -61,12 +61,14 @@ The main reason why it's recommended to create a new world is to prevent village
 ### Devlog
 
 Version 1.4
+- fixed player getting damaged when breaking log if axe breaks and when breaking stone if pickaxe breaks
 - squids no longer kill themselves by swimming into blocks while going towards the player
 - lowered flint hatchet attach damage
 - fixed chainmail chestplate recipe
 - placed buttons now drop
+- white wool blocks drop when broken
 - dolphins also lower insanity 
-- knitting kit can be made from any wool type
+- knitting kit can be crafted from any wool color
 - removed knitting kit recipe using string
 - increased lit torch burn time (5 min to 10 min)
 - shield blocks prevent possibilty of wounds if they block a hit

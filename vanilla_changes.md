@@ -9,6 +9,7 @@ Below is a complete list of changes to Vanilla Minecraft introduced by Ultra Har
 ## Recipes
 Removed recipes:
 - White and gray carpet (replaced by [Knitten Fabric](./items/knitten_fabric.md) and [Mattress](./items/mattress.md))
+- White wool made from string
 - Wooden and stone tools 
 - Iron armor (replaced by [Steel](./material_tiers/steel_tier.md) armor)
 - Gold armor & tools (replaced by [Blaze Gold](./material_tiers/blaze_gold_tier.md) armor & tools)
