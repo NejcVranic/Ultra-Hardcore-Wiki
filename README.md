@@ -5,7 +5,7 @@
 
 # Main Page
 ## Introduction
-Ultra Hardcore is a datapack for Minecraft 1.20.4 that aims to increase the difficulty of survival by expanding the survival aspects and progression of the game, without making the game *overly* grindy and unfair. Despite being a datapack, the amount of content added is on par with most mods!
+Ultra Hardcore is a feature-rich datapack for Minecraft 1.20.4 that aims to increase the difficulty of survival by expanding the survival aspects and progression of the game, without making the game *overly* grindy and unfair.
 
 Features:
 - expanded progression system,
@@ -28,8 +28,8 @@ As a datapack, Ultra Hardcore benefits from being Vanilla compatible and easy to
 ## How to install
 You can get the **datapack** on **modrinth**: https://modrinth.com/project/ultra-hardcore-datapack
 
-<span style="color:rgb(250, 0, 0)">!!! This datapack requries</span> [Optifine](https://optifine.net/home) (a client-side mod for performance) for rendering custom entity textures!
-<span style="color:rgb(250, 0, 0)">!!! A</span> [resource pack](https://modrinth.com/project/ultra-hardcore-resource-pack) <span style="color:rgb(250, 0, 0)">is required</span> for the custom textures to load!
+<span style="color:rgb(250, 0, 0)">This datapack requries</span> [Optifine](https://optifine.net/home) (a client-side mod for performance) for rendering custom entity textures!
+<span style="color:rgb(250, 0, 0)">A</span> [resource pack](https://modrinth.com/project/ultra-hardcore-resource-pack) <span style="color:rgb(250, 0, 0)">is required</span> for the custom textures to load!
 
 > When you enter your world with this datapack enabled, it will give you a warning "World using experimental settings are not supported." This is normal, Minecraft just likes to complain if you add custom structures. There is no need for concern, you can click "I know what im doing!" to enter the world.
 
@@ -58,12 +58,41 @@ The main reason why it's recommended to create a new world is to prevent village
 - squids can latch onto the player through blocks (example: frozen lake surface)
 - firestarter kit sometimes doesn't work if not aimed at center of block
 
+### Devlog
+
+Version 1.4
+- squids no longer kill themselves by swimming into blocks while going towards the player
+- lowered flint hatchet attach damage
+- fixed chainmail chestplate recipe
+- placed buttons now drop
+- dolphins also lower insanity 
+- knitting kit can be made from any wool type
+- removed knitting kit recipe using string
+- increased lit torch burn time (5 min to 10 min)
+- shield blocks prevent possibilty of wounds if they block a hit
+
+Version 1.3
+- Max HP scales slightly faster with experience
+- fixed steel tool repair in deepslate & nether forge
+- white carpet drops (previously dropped nothing)
+- added settings to hide custom recipes (remove knowledge books in crafting hints)
+- fixed pig iron crafting recipe (previously it could be crafted only once)
+- renamed nether core to heart of the nether
+- all copper tools have 64 durability
+- fixed flint hatchet durability (previously 59)
+
+Version 1.2
+- chiseled campfire only drops charcoal if lit when broken
+- lit torch no longer drops extra torches when broken
+
+Version 1.1
+- chisel can be used on iron ore
+
 
 ### Planned updates:
 An update to 1.20.5 is planned and might eventually come out, but I am currently not working on it. Due to the extent of changes to commands between 1.20.4 and 1.20.5 It will require an almost complete rewrite of the whole datapack to update.
 
 Planned changes (might never be implemented):
-- settings for recipe visibility 
 - chisel summon item instead of giving it to player inventory
 - zombies spawn with retextured stone weapons
 - mini rework of insanity punishments, including invisible endermen
@@ -83,21 +112,3 @@ Planned changes (might never be implemented):
 - mob enhancements
 - more accurate mob drops
 
-
-### Devlog
-Version 1.3
-- Max HP scales slightly faster with experience
-- fixed steel tool repair in deepslate & nether forge
-- white carpet drops (previously dropped nothing)
-- added settings to hide custom recipes (remove knowledge books in crafting hints)
-- fixed pig iron crafting recipe (previously it could be crafted only once)
-- renamed nether core to heart of the nether
-- all copper tools have 64 durability
-- fixed flint hatchet durability (previously 59)
-
-Version 1.2
-- chiseled campfire only drops charcoal if lit when broken
-- lit torch no longer drops extra torches when broken
-
-Version 1.1
-- chisel can be used on iron ore
