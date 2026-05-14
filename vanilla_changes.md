@@ -58,7 +58,7 @@ Added recipes:
 ---
 
 ## Mining & block breaking
-- Punching wood, stone & cactus hurts
+- Punching wood, stone & cactus hurts, unless the player has 15 or more XP levels
 - Grass and dirt blocks drop brown dye when mined without using a shovel
 - Mining a log with a wooden axe or a stone axe will drop items and replace the block with a fence of the same wood type
 - Wooden log drop loot depends on the type of axe used:

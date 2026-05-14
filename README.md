@@ -54,12 +54,15 @@ The main reason why it's recommended to create a new world is to prevent village
 
 ## Datapack progress
 
-Known bugs
+This datapack is currently in Beta and is actively recieving updates that fix bugs as I discover them.
+
+Known bugs 
 - hoes sometimes produce regular farmland if the farmland isn't detected properly on use
+- mining stone with bare hands is possible, because scoreboards can't detect when the player "mines" stone without a pickaxe
 
 ### Devlog
 
-Version 0.3.0-beta (in development)
+Version 0.3.0-beta (in development, not yet published)
 - fixed player getting damaged when breaking log if axe breaks and when breaking stone if pickaxe breaks
 - fixed squids to no longer swim into blocks while going towards the player (which resulted in them suffocating)
 - changed flint hatchet attach damage from 7 to 5

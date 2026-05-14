@@ -215,16 +215,16 @@ You can use the flint chisel on coal, copper and iron ore blocks to get the mate
 
 ### Copper age
 Smelt the raw copper and craft the standard set of tools from copper ingots in the crafting table.
-With the copper pickaxe you can finally mine ore blocks, allowing you to get the ores from behind the blocks which are immediately exposed to you.
-Starting with the copper axe you can one-shot cows, which prevents them from kicking you when you kill them. 
+- With the copper pickaxe you can finally mine ore blocks, allowing you to get the ores from behind the blocks which are immediately exposed to you.
+- Starting with the copper axe you can one-shot cows, which prevents them from kicking you when you kill them. 
 
 ### Iron age
 After collecting enough raw iron and smelting it into iron nuggets you can craft iron ingots and a blasting furnace. Smelting raw iron in a blasting furnace yields iron ingots, which will save you a lot of time down the line.
-With the iron pickaxe you can finally mine stone, however it still can't mine deepslate.
-
-You can finally make some armor by crafting chains and chainmail armor.
-
-You can also make a canteen which is much more convenient than carrying around multiple water bottles.
+- With the iron pickaxe you can finally mine stone, however it still can't mine deepslate. 
+- You can make armor by crafting chains and chainmail armor. 
+- A canteen which is much more convenient than carrying around multiple water bottles.
+- Buckets allow you to make a nether portal
+- Shears allow you to get wool for bandages more easily
 
 To unlock the steel tier you mist first craft a deepslate forge, which requires deepslate. Since you can't mine it, you'll have to blow it up with TNT or creepers, or find an amethyst geode and mine the deepslate with an amethyst pickaxe.
 
