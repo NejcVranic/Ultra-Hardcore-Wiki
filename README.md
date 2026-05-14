@@ -52,49 +52,50 @@ The main reason why it's recommended to create a new world is to prevent village
 
 ---
 
-## WORK IN PROGRESS
+## Datapack progress
 
-### Current bugs (V1.3)
-- squids can latch onto the player through blocks (example: frozen lake surface)
-- firestarter kit sometimes doesn't work if not aimed at center of block
+Known bugs
+- hoes sometimes produce regular farmland if the farmland isn't detected properly on use
 
 ### Devlog
 
-Version 1.4
+Version 0.3.0-beta (in development)
 - fixed player getting damaged when breaking log if axe breaks and when breaking stone if pickaxe breaks
-- squids no longer kill themselves by swimming into blocks while going towards the player
-- lowered flint hatchet attach damage
+- fixed squids to no longer swim into blocks while going towards the player (which resulted in them suffocating)
+- changed flint hatchet attach damage from 7 to 5
 - fixed chainmail chestplate recipe
-- placed buttons now drop
-- white wool blocks drop when broken
-- dolphins also lower insanity 
-- knitting kit can be crafted from any wool color
+- fixed button blocks to drop as item when broken
+- fixed white wool blocks to drop when broken
+- added dolphins to list of animals that lower insanity 
+- added knitting kit recipes for all colored wool
 - removed knitting kit recipe using string
-- increased lit torch burn time (5 min to 10 min)
-- shield blocks prevent possibilty of wounds if they block a hit
+- changed lit torch burn time from 5 min to 10 min
+- fixed shield to prevent wounds when succesfully blocking a hit
 
-Version 1.3
-- Max HP scales slightly faster with experience
+Version 0.2.0-beta
+- changed Max HP to scale faster with experience
 - fixed steel tool repair in deepslate & nether forge
-- white carpet drops (previously dropped nothing)
+- fixed white carpet block drops (previously dropped nothing)
 - added settings to hide custom recipes (remove knowledge books in crafting hints)
 - fixed pig iron crafting recipe (previously it could be crafted only once)
-- renamed nether core to heart of the nether
-- all copper tools have 64 durability
+- changed nether core name to heart of the nether
+- changed all copper tools to have 64 durability
 - fixed flint hatchet durability (previously 59)
 
-Version 1.2
-- chiseled campfire only drops charcoal if lit when broken
-- lit torch no longer drops extra torches when broken
+Version 0.1.2-beta
+- fixed chiseled campfire to only drop charcoal if broken when lit
+- fixed lit torch to no longer drop extra torches when broken
 
-Version 1.1
-- chisel can be used on iron ore
+Version 0.1.1-beta
+- fixed chisel so it can be used on iron ore
+
+Version 0.1.0-alpha
 
 
 ### Planned updates:
 An update to 1.20.5 is planned and might eventually come out, but I am currently not working on it. Due to the extent of changes to commands between 1.20.4 and 1.20.5 It will require an almost complete rewrite of the whole datapack to update.
 
-Planned changes (might never be implemented):
+Planned changes for future versions (might never be implemented):
 - chisel summon item instead of giving it to player inventory
 - zombies spawn with retextured stone weapons
 - mini rework of insanity punishments, including invisible endermen

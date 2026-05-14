@@ -3,7 +3,7 @@ Lit Torch is a tool [item](../items.md) that can be used to place down a torch b
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  
-<p>It has a durability bar which indicates how much longer it can burn for, when turned into a lit torch. A lit torch placed with a full durability bar has a limited burn time of 5 minutes, after which the block is destroyed. If the block is broken before the time expires, it will drop an unlit torch with a remaining durability that reflects the remaining burn time. It does not emit light when held in hand.</p>
+<p>It has a durability bar which indicates how much longer it can burn for, when turned into a lit torch. A lit torch placed with a full durability bar has a limited burn time of 10 minutes, after which the block is destroyed. If the block is broken before the time expires, it will drop an unlit torch with a remaining durability that reflects the remaining burn time. It does not emit light when held in hand.</p>
 <p>It will turn into an Unlit Torch if held in hand by a player submerged in water.
 </p>  
 </div>  
