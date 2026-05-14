@@ -62,7 +62,7 @@ Known bugs
 
 ### Devlog
 
-Version 0.3.0-beta (in development, not yet published)
+Version 0.3.0-beta (still in development)
 - fixed player getting damaged when breaking log if axe breaks and when breaking stone if pickaxe breaks
 - fixed squids to no longer swim into blocks while going towards the player (which resulted in them suffocating)
 - changed flint hatchet attach damage from 7 to 5
