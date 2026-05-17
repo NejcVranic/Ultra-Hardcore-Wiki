@@ -59,6 +59,7 @@ This datapack is currently in Beta and is actively recieving updates that fix bu
 Known bugs 
 - hoes sometimes produce regular farmland if the farmland isn't detected properly on use
 - mining stone with bare hands is possible, because scoreboards can't detect when the player "mines" stone without a pickaxe
+- squids can latch onto the player through blocks if player is standing directly above it
 
 ### Devlog
 
