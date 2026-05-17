@@ -1,5 +1,5 @@
 # Flint Hatchet
-Flint Hatchet is a tool [item](../items.md) that can be used to break wood.
+Flint Hatchet is a tool [item](../items.md) that can be used to break wood. It belongs to the [Flint Tier](../material_tiers/flint_tier.md).
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  

@@ -1,5 +1,5 @@
 # Flint Chisel
-Flint Chisel is a tool [item](../items.md) that can be used in multiple ways and allows the player to obtain other materials. [Iron Chisel](../items/iron_chisel.md) is a higher tier version of the tool.
+Flint Chisel is a tool [item](../items.md) that can be used in multiple ways and allows the player to obtain other materials. [Iron Chisel](../items/iron_chisel.md) is a higher tier version of the tool. It belongs to the [Flint Tier](../material_tiers/flint_tier.md).
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">  
 <div style="flex: 1;">  

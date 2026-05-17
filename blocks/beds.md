@@ -31,3 +31,5 @@ If a player sleeps in a bed next to a [source of heat](frost.md), they will gain
 </table>
 
 > Note that gray carpet has been replaced by [Mattress](../items/mattress.md).
+
+A bed can be found in an igloo and in a forest cottage structures.
