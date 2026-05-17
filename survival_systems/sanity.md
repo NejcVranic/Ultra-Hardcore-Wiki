@@ -36,6 +36,8 @@ Insanity is decreased by:
 	- Tamed Wolf (`-1 insanity for each`)
 	- Horse (`-1 insanity for each`)
 	- Tamed Cat (`-1 insanity for each`)
+	- Dolphin (`-1 insanity for each`)
+	- Bee (`-1 insanity for each`)
 	- Axolotl (`-1 insanity for each`)
 	- Snowman with the pumpkin removed (`-1 insanity for each`)
 - (passively) having Totem of Undying in inventory (`-3 insanity`)

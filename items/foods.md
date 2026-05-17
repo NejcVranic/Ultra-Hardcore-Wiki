@@ -69,6 +69,7 @@ Cactus Soup
 Diamond Apple
 - Recipe: surround apple with 8 diamonds 
 - Gives Regeneration 4 effect for 5 seconds and another 5 seconds of Regeneration 2 + same effect as eating golden apple
+- Gives absorption 2 for 3 minutes
 - Immediately heals all wounds
 - Found in Stronghold loot chests
 

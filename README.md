@@ -62,18 +62,17 @@ Known bugs
 
 ### Devlog
 
-Version 0.3.0-beta (still in development)
+Version 0.3.0-beta
 - fixed player getting damaged when breaking log if axe breaks and when breaking stone if pickaxe breaks
 - fixed squids to no longer swim into blocks while going towards the player (which resulted in them suffocating)
-- changed flint hatchet attach damage from 7 to 5
 - fixed chainmail chestplate recipe
 - fixed button blocks to drop as item when broken
 - fixed white wool blocks to drop when broken
-- added dolphins to list of animals that lower insanity 
 - added knitting kit recipes for all colored wool
 - removed knitting kit recipe using string
 - changed lit torch burn time from 5 min to 10 min
-- fixed shield to prevent wounds when succesfully blocking a hit
+- changed the helmet of zombies spawned in swamp from lily pad to slime block
+- changed flint hatchet attach damage from 7 to 5
 
 Version 0.2.0-beta
 - changed Max HP to scale faster with experience
