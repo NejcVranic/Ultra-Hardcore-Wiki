@@ -5,7 +5,7 @@ Deepslate Forge is a utility block [block](../blocks.md) that allows the player 
 <div style="flex: 1;">  
 <p>A forge must be powered to enable its utilities.</p>
 <p>The Deepslate Forge is powered when the block below it is lava, fire, campfire or soul campfire.</p>
-<p>It can repair iron and steel armor and tools.</p>
+<p>It can repair steel armor and tools.</p>
 </div>  
 	
 <div style="width: 250px; border: 2px solid #3a3a3a; font-family: sans-serif;">  
@@ -62,7 +62,7 @@ A forge block can be used to forge new items when the following conditions are m
 - a valid forging recipe is used in its UI
 - It's surface slot is empty
 
-Armor and Tools can be repaired using the forge by
+Steel armor & tools can be repaired using the forge by
 - inserting the armor or tool in the surface slot,
 - placing an appropriate material in any cell inside its 3x3 UI,
 - and leaving the other cells empty

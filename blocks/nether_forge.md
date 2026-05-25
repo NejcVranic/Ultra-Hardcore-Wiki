@@ -6,7 +6,7 @@ Nether Forge is a utility [block](../blocks.md) that allows the player to [forge
 <p>A forge must be powered to enable its utilities.</p>
 <p>The Nether Forge is powered when there is a fire, campfire or soul campfire below it, and the block below is being fanned by an Air Blower.</p>
 <p>If the Nether forge is executing a process and the block below it is no longer fanned, the forge will become unpowered and cancel it's process. Because an air blower will only fan a flame for a short duration, it must be made to continually fan the flame below the forge, until the forge's process is completed.</p>
-<p>It can repair iron, steel and diamond armor and tools.</p>
+<p>It can repair steel and diamond armor and tools.</p>
 </div>  
 	
 <div style="width: 250px; border: 2px solid #3a3a3a; font-family: sans-serif;">  
@@ -63,7 +63,7 @@ A forge block can be used to forge new items when the following conditions are m
 - a valid forging recipe is used in its UI
 - It's surface slot is empty
 
-Armor and Tools can be repaired using the forge by
+Steel and Diamond armor & tools can be repaired using the forge by
 - inserting the armor or tool in the surface slot,
 - placing an appropriate material in the any cell inside its 3x3 UI,
 - and leaving the other cells empty

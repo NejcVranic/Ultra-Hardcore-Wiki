@@ -85,7 +85,7 @@ Added recipes:
 - Cow, Donkeys and Horses kick the player when hurt by them
 - Every full moon is a [Red Moon](./miscellaneous/red_moon.md) 
 - Stews are now stackable!
-- (Unfertilized) farmland has a random chance of reversing the growth stage of a crop placed upon it. In addition there is a random chance for a weed to grow, which has a random chance to replace the farmland with a grass block. In combination they make it impossible to grow crops on soil that has not been fertilized.
+- Poor farmland has a random chance of reversing the growth stage of a crop placed upon it. In addition there is a random chance for a weed to grow, which has a random chance to replace the farmland with a grass block. In combination they make it impossible to grow crops on soil that has not been fertilized.
 - Drinking from (unfiltered) water bottles and (unpasturized) bucket of milk has a high chance of applying negative effects like hunger and poison.
 - [Netherite](./material_tiers/netherite_tier.md) armor has increased armor toughness
 

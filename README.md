@@ -73,7 +73,7 @@ Version 0.3.0-beta
 - removed knitting kit recipe using string
 - changed lit torch burn time from 5 min to 10 min
 - changed the helmet of zombies spawned in swamp from lily pad to slime block
-- changed flint hatchet attach damage from 7 to 5
+- changed flint hatchet attack damage from 7 to 5
 
 Version 0.2.0-beta
 - changed Max HP to scale faster with experience
